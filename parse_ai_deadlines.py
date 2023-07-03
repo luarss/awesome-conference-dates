@@ -3,6 +3,7 @@ from icalendar import Calendar, Event, vCalAddress, vText, Alarm
 from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
+from utils import get_alarms
 
 ## Load deadlines from ai-deadlin.es
 with open("conferences.yml", "r") as stream:
@@ -43,6 +44,11 @@ for entry in ai_conferences:
 
         event['uid'] = title
 
+        # Add the alarms
+        alarms = get_alarms()
+        for alarm in alarms:
+             event.add_component(alarm)
+
         # Add the event to the calendar
         cal.add_component(event)
     except Exception as e:
@@ -55,15 +61,18 @@ for entry in vlsi_conferences:
     event.add('dtstart', date)
     event.add('dtend', date)
     event.add('summary', title)
+    event.add('description', title)
+    # Add the organizer
+    organizer = vCalAddress('MAILTO:jdoe@example.com')
+    organizer.params['name'] = vText('luarss')
+    event['organizer'] = organizer
+    event['location'] = vText('Earth')
+    event['uid'] = title
 
-    alarm = Alarm()
-    alarm.add('action', 'DISPLAY')
-    alarm.add('description', 'Meeting Reminder')
-    alarm.add('trigger', timedelta(days =-7))
-    alarm.add('trigger', timedelta(days =-3))
-    alarm.add('trigger', timedelta(days =-1))
-    alarm.add('trigger', timedelta(hours = -1))
-    event.add_component(alarm)
+    # Add the alarms
+    alarms = get_alarms()
+    for alarm in alarms:
+       event.add_component(alarm)
     cal.add_component(event)
 
 # Write to disk 
