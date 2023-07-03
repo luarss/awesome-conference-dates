@@ -1,4 +1,18 @@
 ---
+- title: CVPR
+  year: 2024
+  id: cvpr24
+  link: https://cvpr.thecvf.com/Conferences/2024
+  deadline: '2023-11-10 23:59:59'
+  abstract_deadline: '2023-11-03 23:59:59'
+  timezone: America/Los_Angeles
+  place: Seattle, Washington, USA
+  date: June 17-21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  hindex: 389
+  sub: CV
+
 - title: ICRA
   year: 2024
   id: icra24
@@ -125,7 +139,7 @@
   deadline: '2023-05-23 23:59:00'
   timezone: UTC-12
   place: Bali, Indonesia
-  date: November 1-4, 2022
+  date: November 1-4, 2023
   start: 2023-11-01
   end: 2023-11-04
   hindex: 37
