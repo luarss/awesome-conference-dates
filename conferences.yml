@@ -1,4 +1,143 @@
 ---
+- title: NAACL
+  year: 2024
+  id: naacl24
+  link: https://2024.naacl.org
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC-12
+  place: Mexico City, Mexico
+  date: June 16-21, 2024
+  start: 2024-06-16
+  end: 2024-06-21
+  hindex: 133
+  sub: NLP
+  note: All submissions must be done through ARR. More info <a href='https://2024.naacl.org/calls/papers/'>here</a>.
+
+- title: CSCW
+  year: 2024
+  id: cscw24_january
+  link: https://cscw.acm.org/2024/
+  deadline: '2024-01-16 23:59:59'
+  timezone: UTC-12
+  place: San José, Costa Rica
+  date: November 9-13, 2024
+  start: 2024-11-09
+  end: 2024-11-13
+  hindex: 31
+  sub: HCI
+  note: This is the January cycle.
+
+- title: IUI
+  year: 2024
+  id: iui24
+  link: https://iui.acm.org/2024/
+  deadline: '2023-10-09 23:59:59'
+  timezone: UTC-12
+  place: Greenville, South Carolina, USA
+  date: March 18-21, 2024
+  start: 2024-03-18
+  end: 2024-03-21
+  hindex: 47
+  sub: HCI
+  note: Mandatory abstract deadline on Oct 2, 2023. More info <a href='https://iui.acm.org/2024/call_for_papers.html'>here</a>.
+
+- title: AISTATS
+  year: 2024
+  id: aistats24
+  link: https://www.aistats.org/aistats2024/
+  deadline: '2023-10-13 23:59:59'
+  timezone: UTC-12
+  place: Valencia, Spain
+  date: May 02-04, 2024
+  start: 2024-05-02
+  end: 2024-05-04
+  hindex: 91
+  sub: ML
+  note: Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>.
+
+- title: ICASSP
+  year: 2024
+  id: icassp24
+  link: https://2024.ieeeicassp.org/
+  deadline: '2023-09-06 23:59:59'
+  timezone: UTC-12
+  place: Seoul, Korea
+  date: April 14-19, 2024
+  start: 2024-04-14
+  end: 2024-04-19
+  hindex: 123
+  sub: SP
+
+- title: HRI
+  year: 2024
+  id: hri24
+  link: https://humanrobotinteraction.org/2024/
+  deadline: '2023-09-29 23:59:59'
+  timezone: UTC-12
+  place: Boulder, Colorado, USA
+  date: March 11-14, 2024
+  start: 2024-03-11
+  end: 2024-03-14
+  hindex: 55
+  sub: RO
+
+- title: WACV
+  year: 2024
+  id: wacv24
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2024.thecvf.com
+  deadline: '2023-08-30 11:59:59'
+  timezone: America/Los_Angeles
+  place: Waikoloa, Hawaii, USA
+  date: January 3-7, 2024
+  start: 2024-01-03
+  end: 2024-01-07
+  hindex: 76
+  sub: CV
+  note: This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>.
+
+- title: EACL
+  year: 2024
+  id: eacl24
+  full_name: The 18th Conference of the European Chapter of the Association for Computational Linguistics
+  link: https://2024.eacl.org/
+  deadline: '2023-10-15 23:59:59'
+  timezone: UTC-12
+  place: St. Julians, Malta
+  date: March 17-22, 2024
+  start: 2024-03-17
+  end: 2024-03-22
+  hindex: 38
+  note: Submission via ACL Rolling Review, commitment date 2023-12-20
+  sub: NLP
+
+- title: 3DV
+  year: 2024
+  id: threedv24
+  link: https://3dvconf.github.io/2024/
+  deadline: '2023-08-07 23:59:59'
+  timezone: America/Los_Angeles
+  place: Davos, Switzerland
+  date: March 18-21, 2024
+  start: 2024-03-18
+  end: 2024-03-21
+  sub: CV
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-09-28 23:59:59'
+  abstract_deadline: '2023-09-21 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  hindex: 286
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+  
 - title: CVPR
   year: 2024
   id: cvpr24
@@ -54,21 +193,6 @@
   sub: ML
   note: Mandatory abstract deadline on Oct 02, 2023. More info <a href='https://www.aamas2024-conference.auckland.ac.nz/calls/call-for-papers/'>here</a>.
 
-- title: WACV
-  year: 2024
-  id: wacv24
-  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: https://wacv2024.thecvf.com
-  deadline: '2023-06-28 11:59:59'
-  timezone: America/Los_Angeles
-  place: Waikoloa, Hawaii, USA
-  date: January 3-7, 2024
-  start: 2024-01-03
-  end: 2024-01-07
-  hindex: 76
-  sub: CV
-  note: Paper Registration is on Jun. 21st 2023; Second round submission deadline on Aug. 30th 2023
-
 - title: AAAI
   year: 2024
   id: aaai24
@@ -121,7 +245,7 @@
   year: 2024
   id: lreccoling24
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
-  link: https://lrec-coling-2024.lrec-conf.org/
+  link: https://lrec-coling-2024.org
   deadline: '2023-10-13 23:59:59'
   timezone: UTC-12
   place: Torino, Italy
@@ -488,14 +612,14 @@
 - title: ICLR
   year: 2023
   id: iclr23
-  link: https://iclr.cc/
+  link: https://iclr.cc/Conferences/2023
   deadline: '2022-09-28 23:59:59'
   abstract_deadline: '2022-09-21 23:59:59'
   timezone: UTC-12
   place: Kigali, Rwanda
   date: May 01-05, 2023
   start: 2023-05-01
-  end: 2022-05-05
+  end: 2023-05-05
   hindex: 286
   sub: ML
   note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
@@ -1247,7 +1371,7 @@
 - title: ICLR
   year: 2022
   id: iclr22
-  link: https://iclr.cc/
+  link: https://iclr.cc/Conferences/2022
   deadline: '2021-10-05 17:00:00'
   abstract_deadline: '2021-09-28 17:00:00'
   timezone: UTC-7
