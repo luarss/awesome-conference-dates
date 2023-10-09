@@ -1,4 +1,45 @@
 ---
+- title: SaTML
+  year: 2024
+  id: satml24
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://satml.org/
+  deadline: '2023-10-11 23:59:59'
+  abstract_deadline: '2023-10-04 23:59:59'
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: April 2024
+  start: 2024-04-01
+  end: 2024-04-01
+  sub: ML
+  note: Check the website for exact conference dates.
+
+- title: ECCV
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net/
+  deadline: '2024-03-07 23:59:00'
+  timezone: UTC-12
+  place: Milano, Italy
+  date: September 29 - October 04, 2024
+  start: 2024-09-29
+  end: 2024-10-04
+  hindex: 238
+  sub: CV
+  note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+
+- title: CLeaR
+  year: 2024
+  id: clear24
+  link: https://www.cclear.cc/2024
+  deadline: '2023-10-27 23:59:59'
+  timezone: UTC-12
+  place: Los Angeles, USA
+  date: April 1 - April 03, 2024
+  start: 2024-04-01
+  end: 2024-04-03
+  sub: ML
+
 - title: ICPRAI
   year: 2024
   id: icprai24
@@ -158,7 +199,7 @@
   id: iclr24
   link: https://iclr.cc/Conferences/2024
   deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-21 23:59:59'
+  abstract_deadline: '2023-09-23 23:59:59'
   timezone: UTC-12
   place: Vienna, Austria
   date: May 07-11, 2024
@@ -166,7 +207,7 @@
   end: 2024-05-11
   hindex: 286
   sub: ML
-  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+  note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
   
 - title: CVPR
   year: 2024
