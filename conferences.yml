@@ -1,4 +1,154 @@
----
+- title: UAI
+  year: 2024
+  id: uai24
+  link: https://www.auai.org/uai2024/
+  deadline: '2024-02-09 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: July 15-19, 2024
+  start: 2024-07-15
+  end: 2024-07-19
+  sub: ML
+
+- title: CoLLAs
+  year: 2024
+  id: collas24
+  link: https://lifelong-ml.cc
+  deadline: '2024-02-15 23:59:59'
+  abstract_deadline: '2024-02-09 23:59:59'
+  timezone: UTC-12
+  place: Pisa, Italy
+  date: July 29 - August 01, 2024
+  start: 2024-07-29
+  end: 2024-08-01
+  sub: ML
+
+- title: ECAI
+  year: 2024
+  id: ecai24
+  link: https://www.ecai2024.eu/
+  deadline: '2024-04-25 23:59:59'
+  abstract_deadline: '2024-04-19 23:59:59'
+  timezone: UTC-12
+  place: Santiago de Compostela, Spain
+  date: October 19-24, 2024
+  start: 2024-10-19
+  end: 2024-10-24
+  sub: ML
+  note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
+
+- title: RLC
+  year: 2024
+  id: rlc24
+  link: https://rl-conference.cc/
+  deadline: '2024-03-01 23:59:59'
+  timezone: UTC-12
+  place: Amherst, Massachusetts, USA
+  date: Aug 09-12, 2024
+  start: 2024-08-09
+  end: 2024-08-12
+  sub: ML
+
+- title: RSS
+  year: 2024
+  id: rss24
+  link: https://roboticsconference.org/2024
+  deadline: '2024-02-02 23:59:59'
+  timezone: UTC-12
+  place: Delft, Netherlands
+  date: July 15-19, 2024
+  start: 2024-07-15
+  end: 2024-07-19
+  hindex: 61
+  sub: RO
+  note: Optional supplementary material deadline on February 08, 2024. More info <a href='https://roboticsconference.org/2024'>here</a>.
+
+
+- title: ICML
+  year: 2024
+  id: icml24
+  link: https://icml.cc/Conferences/2024
+  deadline: '2024-02-01 11:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 21-27, 2024
+  start: 2024-07-21
+  end: 2024-07-27
+  hindex: 254
+  sub: ML
+
+- title: MICCAI
+  year: 2024
+  id: miccai2024
+  link: https://conferences.miccai.org/2024/en/
+  deadline: '2024-03-07 23:59:59'
+  timezone: America/Los_Angeles
+  place: Marrakech, Morocco
+  date: October 6 - October 10, 2024
+  start: 2024-10-06
+  end: 2024-10-10
+  hindex: 78
+  sub: CV
+  note: More info <a href='https://conferences.miccai.org/2024/'>here</a>.
+  
+- title: SIGIR
+  year: 2024
+  id: sigir24
+  link: https://sigir-2024.github.io
+  deadline: '2024-01-25 23:59:00'
+  abstract_deadline: '2024-01-18 23:59:00'
+  timezone: UTC-12
+  place: Washington D.C., USA
+  date: July 14-18, 2024
+  start: 2024-07-14
+  end: 2024-07-18
+  hindex: 66
+  sub: DM
+  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+  
+- title: COLM
+  year: 2024
+  id: colm24
+  full_name: 1st Conference on Language Modeling
+  link: https://colmweb.org/
+  deadline: '2024-03-15 23:59:59'
+  abstract_deadline: '2024-03-8 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: October, 2024
+  sub: NLP
+  note: Mandatory abstract deadline on March 8, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
+
+- title: IJCAI-PRICAI
+  year: 2024
+  id: ijcai24
+  full_name: International Joint Conference on Artificial Intelligence and Pacific Rim International Conference on Artificial Intelligence
+  link: https://ijcai24.org/
+  deadline: '2024-01-17 23:59:59'
+  abstract_deadline: '2024-01-10 23:59:59'
+  timezone: UTC-12
+  place: Jeju, South Korea
+  date: August 03-09, 2024
+  start: 2024-08-03
+  end: 2024-08-09
+  hindex: 133
+  sub: ML
+  note: Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
+
+- title: CHIL
+  year: 2024
+  id: CHIL24
+  full_name: Conference on Health, Inference, and Learning
+  link: https://www.chilconference.org/index.html
+  deadline: '2024-02-05 23:59:59'
+  timezone: America/New_York
+  place: New York, New York
+  date: June, 27-28, 2024
+  start: 2024-06-27
+  end: 2024-06-28
+  sub: ML
+  note: Please check the website for the latest updates.
+
 - title: SaTML
   year: 2024
   id: satml24
@@ -18,15 +168,16 @@
   year: 2024
   id: eccv24
   link: https://eccv2024.ecva.net/
-  deadline: '2024-03-07 23:59:00'
-  timezone: UTC-12
+  deadline: '2024-03-07 12:59:00'
+  abstract_deadline: '2024-02-29 12:59:00'
+  timezone: UTC-8
   place: Milano, Italy
   date: September 29 - October 04, 2024
   start: 2024-09-29
   end: 2024-10-04
   hindex: 238
   sub: CV
-  note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
+  note: More info <a href='https://eccv2024.ecva.net/'>here</a>.
 
 - title: CLeaR
   year: 2024
@@ -45,7 +196,7 @@
   id: icprai24
   full_name: International Conference on Pattern Recognition and Artificial Intelligence
   link: http://icprai2024.org/
-  deadline: '2023-12-15 23:59:59'
+  deadline: '2024-01-05 23:59:59'
   timezone: UTC+9
   place: Jeju Island, South Korea
   date: Jun 18-21, 2024
@@ -116,7 +267,7 @@
   year: 2024
   id: aistats24
   link: https://www.aistats.org/aistats2024/
-  deadline: '2023-10-13 23:59:59'
+  deadline: '2023-10-16 23:59:59'
   timezone: UTC-12
   place: Valencia, Spain
   date: May 02-04, 2024
@@ -213,7 +364,7 @@
   year: 2024
   id: cvpr24
   link: https://cvpr.thecvf.com/Conferences/2024
-  deadline: '2023-11-10 23:59:59'
+  deadline: '2023-11-17 23:59:59'
   abstract_deadline: '2023-11-03 23:59:59'
   timezone: America/Los_Angeles
   place: Seattle, Washington, USA
@@ -222,6 +373,8 @@
   end: 2024-06-21
   hindex: 389
   sub: CV
+  note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
+
 
 - title: ICRA
   year: 2024
@@ -317,7 +470,7 @@
   id: lreccoling24
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
   link: https://lrec-coling-2024.org
-  deadline: '2023-10-13 23:59:59'
+  deadline: '2023-10-20 23:59:59'
   timezone: UTC-12
   place: Torino, Italy
   date: May 20 - May 25, 2024
@@ -555,7 +708,7 @@
 - title: ICML
   year: 2023
   id: icml23
-  link: https://icml.cc/
+  link: https://icml.cc/Conferences/2023
   deadline: '2023-01-26 11:59:00'
   timezone: America/Los_Angeles
   place: Hawai'i, USA
