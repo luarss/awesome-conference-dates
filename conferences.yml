@@ -1,3 +1,101 @@
+- title: MM
+  year: 2024
+  id: mm24
+  link: https://2024.acmmm.org/
+  deadline: '2024-04-08 23:59:59'
+  abstract_deadline: '2024-04-12 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  data: October 28 - November 1, 2024
+  start: 2024-10-28
+  end: 2024-11-01
+  sub: CV
+  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
+
+- title: ACL
+  year: 2024
+  id: acl24
+  link: https://2024.aclweb.org/
+  deadline: '2024-02-15 23:59:00'
+  timezone: UTC-12
+  place: Bangkok, Thailand
+  date: August 11-16, 2024
+  start: 2024-08-11
+  end: 2024-08-16
+  hindex: 192
+  sub: NLP
+  note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
+
+- title: IROS
+  year: 2024
+  id: iros24
+  link: https://iros2024-abudhabi.org/
+  deadline: '2024-03-01 23:59:59'
+  timezone: America/Los_Angeles
+  place: Abu Dhabi, UAE
+  date: October 14-18, 2024
+  start: 2024-10-14
+  end: 2024-10-18
+  hindex: 80
+  sub: RO
+
+- title: KR
+  year: 2024
+  id: kr24
+  link: https://kr.org/KR2024/
+  deadline: '2024-05-01 23:59:59'
+  abstract_deadline: '2024-04-24 23:59:59'
+  timezone: UTC-12
+  place: Hanoi, Vietnam
+  date: Nov 02-08, 2024
+  start: 2024-11-02
+  end: 2024-11-08
+  hindex: -1
+  sub: KR
+  note: Mandatory abstract deadline on April 24, 2024. More info <a href='https://kr.org/KR2024/'>here</a>.
+
+- title: AAAI 2024 Spring Symposium on Clinical Foundation Models
+  year: 2024
+  id: aaaisss24cfm  # title as lower case + last two digits of year
+  full_name: AAAI 2024 Spring Symposium on Clinical Foundation Models  # full conference name
+  link: https://clinicalfoundationmodels.github.io/
+  deadline: '2024-01-26 23:59:59'
+  timezone: UTC-12
+  place: Stanford, USA
+  date: March, 25-27, 2024
+  start: 2024-03-25
+  end: 2024-03-27
+  sub: ML
+  note: More info <a href='https://clinicalfoundationmodels.github.io/'>here</a>.
+
+- title: AAAI 2024 Spring Symposium on User-Aligned Assessment of Adaptive AI Systems
+  year: 2024
+  id: aia24
+  link: https://aair-lab.github.io/aia2024/
+  deadline: '2023-12-22 23:59:59'
+  timezone: UTC-12
+  place: Stanford, USA  
+  date: March 25-27, 2024
+  start: 2024-03-25
+  end: 2024-03-27
+  hindex: -1
+  sub: ML
+  
+  
+- title: SIGGRAPH
+  year: 2024
+  id: siggraph24
+  link: https://s2024.siggraph.org/
+  deadline: '2024-01-24 22:00:00'
+  abstract_deadline: '2024-01-23 22:00:00'
+  timezone: GMT
+  place: Denver, USA
+  date: July 28 - August 1, 2024
+  start: 2024-07-28
+  end: 2024-08-01
+  sub: CG
+  note: Mandatory abstract deadline on Jan 23, 2024. More info <a href='https://s2024.siggraph.org/program/technical-papers/'>here</a>.
+
 - title: UAI
   year: 2024
   id: uai24
@@ -44,10 +142,23 @@
   deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
   place: Amherst, Massachusetts, USA
-  date: Aug 09-12, 2024
+  date: August 09-12, 2024
   start: 2024-08-09
   end: 2024-08-12
   sub: ML
+
+- title: KDD
+  year: 2024
+  id: kdd24  # title as lower case + last two digits of year
+  link: https://kdd2024.kdd.org/
+  deadline: '2024-02-08 23:59:59'
+  abstract_deadline: '2024-02-01 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25-29, 2024
+  start: 2024-08-25
+  end: 2024-08-29
+  sub: DM
 
 - title: RSS
   year: 2024
@@ -68,7 +179,7 @@
   year: 2024
   id: icml24
   link: https://icml.cc/Conferences/2024
-  deadline: '2024-02-01 11:59:00'
+  deadline: '2024-02-01 23:59:59'
   timezone: UTC-12
   place: Vienna, Austria
   date: July 21-27, 2024
@@ -111,18 +222,18 @@
   id: colm24
   full_name: 1st Conference on Language Modeling
   link: https://colmweb.org/
-  deadline: '2024-03-15 23:59:59'
-  abstract_deadline: '2024-03-8 23:59:59'
+  deadline: '2024-03-29 23:59:59'
+  abstract_deadline: '2024-03-22 23:59:59'
   timezone: UTC-12
   place: TBD
   date: October, 2024
   sub: NLP
-  note: Mandatory abstract deadline on March 8, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
+  note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
 
-- title: IJCAI-PRICAI
+- title: IJCAI
   year: 2024
   id: ijcai24
-  full_name: International Joint Conference on Artificial Intelligence and Pacific Rim International Conference on Artificial Intelligence
+  full_name: International Joint Conference on Artificial Intelligence
   link: https://ijcai24.org/
   deadline: '2024-01-17 23:59:59'
   abstract_deadline: '2024-01-10 23:59:59'
@@ -2035,7 +2146,7 @@
   sub: ML
   note: The workshop is a collaboration between NASSMA organisation, Deepmind and UM6P. NASSMA is an NGO working toward the promotion of STEM and AI education and research in MENA region. 
 
-- title: SIGGRAPH 2023
+- title: SIGGRAPH
   year: 2023
   id: siggraph23
   link: https://s2023.siggraph.org/
@@ -2122,3 +2233,31 @@
   end: 2023-09-08
   sub: NLP
   note: Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney and more at AI World Barcelona — the world's largest generative AI conference.
+
+- title: SPECOM
+  year: 2024
+  id: specom24  # title as lower case + last two digits of year
+  full_name: International Conference on Speech and Computer # full conference name
+  link: https://specom2024.ftn.uns.ac.rs
+  deadline: '2024-07-01 23:59:59'
+  timezone: GMT+1
+  place: Belgrade, Serbia
+  date: November, 25-28, 2024
+  start: 2024-11-25
+  end: 2024-11-28
+  sub: SP
+  note: Check the conference website for workshop and demo deadlines.
+
+- title: MIPR
+  year: 2024
+  id: mipr24  # title as lower case + last two digits of year
+  full_name: International Conference on Multimedia Information Processing and Retrieval # full conference name
+  link: https://sites.google.com/view/mipr2024
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-7
+  place: San Jose, USA
+  date: August, 07-09, 2024
+  start: 2024-08-07
+  end: 2024-08-09
+  sub: ML
+  note: Check the conference website for paper review available and notification of acceptance date.
