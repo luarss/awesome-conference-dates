@@ -1,8 +1,20 @@
+- title: AABI
+  year: 2024
+  id: aabi24
+  full_name: Advances in Approximate Bayesian Inference
+  link: http://approximateinference.org/
+  deadline: '2024-03-29 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July, 21, 2024
+  sub: ML
+  note: "The deadline for submissions to the proceedings and workshop tracks is 29 March. The deadline for submitting a recently published paper to AABI's fast track is 10 May."
+
 - title: CoRL
   year: 2024
   id: corl24
-  link: https://sites.google.com/robot-learning.org/corl2024/
-  deadline: '2023-06-06 23:59:00'
+  link: https://corl.org
+  deadline: '2024-06-06 23:59:00'
   timezone: UTC-12
   place: Munich, Germany
   date: November 06-09, 2024
@@ -237,9 +249,11 @@
   deadline: '2024-03-29 23:59:59'
   abstract_deadline: '2024-03-22 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: October, 2024
-  sub: NLP
+  place: Philadelphia, USA
+  date: October 7-9, 2024
+  start: 2024-10-07
+  end: 2024-10-09
+  sub: NLP, ML
   note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
 
 - title: IJCAI
