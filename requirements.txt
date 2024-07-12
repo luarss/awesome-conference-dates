@@ -1,3 +1,4 @@
 pyyaml
 icalendar
 requests
+beautifulsoup4
