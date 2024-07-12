@@ -34,5 +34,5 @@ jobs:
           git commit -m "Update by GitHub Action"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
