@@ -1,11 +1,22 @@
 import yaml
+import sys
 from icalendar import Calendar, Event, vCalAddress, vText, Alarm
 from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
 from utils import get_alarms
 
-## Load deadlines from ai-deadlin.es
+# Download latest from ai-deadlin.es
+ai_link = "https://aideadlin.es/ai-deadlines.ics"
+response = requests.get(ai_link)
+if response.status_code == 200:
+    with open("ai-deadlines.ics", "wb") as file:
+        file.write(response.content)
+    print("File downloaded successfully.")
+else:
+    print(f"Failed to download the file. Status code: {response.status_code}")
+    exit()
+
 with open("conferences.yml", "r") as stream:
     try:
         ai_conferences = (yaml.safe_load(stream))
