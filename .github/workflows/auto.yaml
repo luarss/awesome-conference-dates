@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,12 +31,17 @@ jobs:
         run: python parse_ai_deadlines.py
 
       - name: Commit and push changes
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "Update by GitHub Action"
-          git push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Update by GitHub Action"
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
 
