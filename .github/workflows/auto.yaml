@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,7 +37,7 @@ jobs:
           git add .
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update by GitHub Action"
-            git push
+            git push origin HEAD:main
           else
             echo "No changes to commit"
           fi
