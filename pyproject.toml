@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "awesome-conference-dates"
+version = "0.1.0"
+description = "A tool to aggregate conference deadlines from AI and VLSI sources"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "luarss", email = "jdoe@example.com"}
+]
+keywords = ["conference", "deadlines", "calendar", "ics", "ai", "vlsi"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Office/Business :: Scheduling",
+    "Topic :: Scientific/Engineering",
+]
+
+dependencies = [
+    "icalendar>=5.0.0",
+    "requests>=2.25.0",
+    "beautifulsoup4>=4.9.0",
+    "lxml>=4.6.0",
+    "pyyaml>=6.0.2",
+    "selenium>=4.27.1",
+    "webdriver-manager>=4.0.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.11.13",
+]
