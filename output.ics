@@ -2360,15 +2360,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
- ems
+SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
+  Large Scale Integration (VLSI-SoC)
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
- Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
- nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 20 J
- un 2025
-LOCATION:Busan\, Korea
+DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
+ Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
+ ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
+ l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
+LOCATION:Puerto Varas\, Chile
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2392,15 +2392,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
-  Large Scale Integration (VLSI-SoC)
+SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
+ ems
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
- Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
- ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
- l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
-LOCATION:Puerto Varas\, Chile
+DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
+ Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
+ nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 20 J
+ un 2025
+LOCATION:Busan\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2869,6 +2869,38 @@ DESCRIPTION:APCCAS 2026 2026 IEEE Asia Pacific Conference on Circuits and
  Systems\n\nRegion: Fukuoka\, Japan\nLink: https://ieee-cas.org/event/confe
  rence/2026-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 
 LOCATION:Fukuoka\, Japan
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICECS 2026 2026 IEEE 33rd International Conference on Electronics 
+ Circuits and Systems
+DTSTART:20261108T000000
+DTEND:20261111T000000
+DESCRIPTION:ICECS 2026 2026 IEEE 33rd International Conference on Electron
+ ics Circuits and Systems\n\nRegion: Thessaloniki\, Greece\nLink: https://i
+ eee-cas.org/event/conference/2026-ieee-33rd-international-conference-elect
+ ronics-circuits-and-systems\nDeadline: 
+LOCATION:Thessaloniki\, Greece
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
