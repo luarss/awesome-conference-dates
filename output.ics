@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOCAST 2025 International Conference on Modern Circuits and System
- s Technologies
-DTSTART:20250611T000000
-DTEND:20250613T000000
-DESCRIPTION:MOCAST 2025 International Conference on Modern Circuits and Sy
- stems Technologies\n\nRegion: Dresden\, Germany\nLink: https://ieee-cas.or
- g/event/conference/international-conference-modern-circuits-and-systems-te
- chnologies\nDeadline: 3 Mar 2025
-LOCATION:Dresden\, Germany
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MPSoC 2025 2025 23nd International Forum on MPSoC for Software-Def
  ined Hardware (MPSoC)
 DTSTART:20250615T000000
@@ -2360,15 +2328,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
-  Large Scale Integration (VLSI-SoC)
+SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
+ ems
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
- Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
- ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
- l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
-LOCATION:Puerto Varas\, Chile
+DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
+ Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
+ nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 20 J
+ un 2025
+LOCATION:Busan\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2392,15 +2360,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
- ems
+SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
+  Large Scale Integration (VLSI-SoC)
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
- Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
- nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 20 J
- un 2025
-LOCATION:Busan\, Korea
+DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
+ Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
+ ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
+ l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
+LOCATION:Puerto Varas\, Chile
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2462,6 +2430,38 @@ DESCRIPTION:BioCAS 2025 2025 IEEE Biomedical Circuits and Systems Conferen
  /2025-ieee-biomedical-circuits-and-systems-conference\nDeadline: 6 Jun 202
  5
 LOCATION:Abu Dhabi\, UAE
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
+DTSTART:20251026T000000
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
