@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import urllib.parse
 
 LINK = "https://ieee-cas.org/conference-events/full-conference-list"
+CLICK_LIMIT = 30
 
 
 def get_full_page_source_selenium(url):
@@ -61,8 +62,13 @@ def get_full_page_source_selenium(url):
 
     # --- Click the "Load More" button until it disappears ---
     print("Starting to click 'Load More'...")
+    curr_count = 0
     while True:
+        if curr_count > CLICK_LIMIT:
+            print(f"Reached click limit of {CLICK_LIMIT}. Stopping.")
+            break
         try:
+            curr_count += 1
             # Find the "Load More" button by its unique attributes
             # A CSS selector is great for this.
             load_more_button = driver.find_element(
@@ -70,7 +76,9 @@ def get_full_page_source_selenium(url):
             )
 
             # Scroll the button into view to ensure it's clickable
-            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", load_more_button)
+            driver.execute_script(
+                "arguments[0].scrollIntoView({block: 'center'});", load_more_button
+            )
             time.sleep(1)  # Slightly longer pause to ensure scrolling is complete
 
             # Ensure the button is interactable before clicking
