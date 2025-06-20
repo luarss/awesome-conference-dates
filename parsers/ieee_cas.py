@@ -70,22 +70,28 @@ def get_full_page_source_selenium(url):
             )
 
             # Scroll the button into view to ensure it's clickable
-            driver.execute_script("arguments[0].scrollIntoView();", load_more_button)
-            time.sleep(0.5)  # Small pause to ensure scrolling is complete
+            driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", load_more_button)
+            time.sleep(1)  # Slightly longer pause to ensure scrolling is complete
 
-            # Click the button
-            load_more_button.click()
+            # Ensure the button is interactable before clicking
+            if load_more_button.is_displayed() and load_more_button.is_enabled():
+                load_more_button.click()
+            else:
+                print("Load More button not interactable.")
+                break
 
             print("Clicked 'Load More'. Waiting for new content...")
 
             # Wait for the new content to load. 2 seconds is a simple but
             # potentially fragile wait. For production, use WebDriverWait.
             time.sleep(2)
-
         except NoSuchElementException:
             # This exception means the button was not found, so we're done.
             print("All content has been loaded.")
             break  # Exit the loop
+        except Exception as e:
+            print(f"An error occurred while clicking 'Load More': {e}")
+            raise e
 
     # --- Get the full page source after all content is loaded ---
     full_html = driver.page_source
