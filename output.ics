@@ -1919,36 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2025 2025 IEEE 23rd Interregional NEWCAS Conference
-DTSTART:20250622T000000
-DTEND:20250625T000000
-DESCRIPTION:NEWCAS 2025 2025 IEEE 23rd Interregional NEWCAS Conference\n\n
- Region: Paris\, France\nLink: https://ieee-cas.org/event/conference/2025-i
- eee-23rd-interregional-newcas-conference\nDeadline: 16 Feb 2025
-LOCATION:Paris\, France
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ICME 2025 2025 IEEE International Conference on Multimedia & Expo
 DTSTART:20250630T000000
 DTEND:20250704T000000
@@ -2296,15 +2266,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
-  Large Scale Integration (VLSI-SoC)
+SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
+ ems
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
- Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
- ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
- l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
-LOCATION:Puerto Varas\, Chile
+DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
+ Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
+ nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 4 Ju
+ l 2025
+LOCATION:Busan\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2328,15 +2298,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
- ems
+SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
+  Large Scale Integration (VLSI-SoC)
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
- Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
- nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 4 Ju
- l 2025
-LOCATION:Busan\, Korea
+DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
+ Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
+ ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
+ l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
+LOCATION:Puerto Varas\, Chile
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2421,6 +2391,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
+ ts and Systems
+DTSTART:20251026T000000
+DTEND:20251027T000000
+DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
+ rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
+ event/conference/2025-ieee-international-symposium-integrated-circuits-and
+ -systems\nDeadline: 6 Mar 2025
+LOCATION:Qingdao\, China
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
  d Design
 DTSTART:20251026T000000
@@ -2453,15 +2455,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
- ts and Systems
-DTSTART:20251026T000000
-DTEND:20251027T000000
-DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
- rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
- event/conference/2025-ieee-international-symposium-integrated-circuits-and
- -systems\nDeadline: 6 Mar 2025
-LOCATION:Qingdao\, China
+SUMMARY:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference
+DTSTART:20251028T000000
+DTEND:20251029T000000
+DESCRIPTION:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference\n
+ \nRegion: Riga\, Latvia\nLink: https://ieee-cas.org/event/conference/2025-
+ ieee-nordic-circuits-and-systems-conference\nDeadline: 15 Aug 2025
+LOCATION:Riga\, Latvia
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
