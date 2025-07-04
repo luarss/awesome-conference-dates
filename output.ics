@@ -2303,7 +2303,7 @@ DTEND:20251015T000000
 DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
  Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
  ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
- l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 16 May 2025
+ l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 14 Jun 2025
 LOCATION:Puerto Varas\, Chile
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2334,8 +2334,8 @@ DTSTART:20251012T000000
 DTEND:20251015T000000
 DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
  Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
- nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 4 Ju
- l 2025
+ nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 11 J
+ ul 2025
 LOCATION:Busan\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2365,7 +2365,7 @@ DTSTART:20251015T000000
 DTEND:20251018T000000
 DESCRIPTION:ISOCC 2025 2025 22nd International SoC Design Conference\n\nRe
  gion: Busan\, South Korea\nLink: https://ieee-cas.org/event/conference/202
- 5-22nd-international-soc-design-conference\nDeadline: 13 Jun 2025
+ 5-22nd-international-soc-design-conference\nDeadline: 11 Jul 2025
 LOCATION:Busan\, South Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
