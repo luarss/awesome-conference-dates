@@ -1919,69 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICME 2025 2025 IEEE International Conference on Multimedia & Expo
-DTSTART:20250630T000000
-DTEND:20250704T000000
-DESCRIPTION:ICME 2025 2025 IEEE International Conference on Multimedia & E
- xpo\n\nRegion: Nantes\, France\nLink: https://ieee-cas.org/event/conferenc
- e/2025-ieee-international-conference-multimedia-expo\nDeadline: 23 Dec 202
- 4
-LOCATION:Nantes\, France
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IWASI 2025 2025 10th International Workshop on Advances in Sensors
-  and Interfaces
-DTSTART:20250703T000000
-DTEND:20250704T000000
-DESCRIPTION:IWASI 2025 2025 10th International Workshop on Advances in Sen
- sors and Interfaces\n\nRegion: Puglia\, Italy\nLink: https://ieee-cas.org/
- event/conference/2025-10th-international-workshop-advances-sensors-and-int
- erfaces\nDeadline: 5 May 2025
-LOCATION:Puglia\, Italy
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISVLSI 2025 2025 IEEE Computer Society Annual Symposium on VLSI
 DTSTART:20250706T000000
 DTEND:20250709T000000
@@ -2421,6 +2358,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
+DTSTART:20251026T000000
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
  ts and Systems
 DTSTART:20251026T000000
@@ -2453,15 +2422,43 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
-DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
+SUMMARY:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference
+DTSTART:20251028T000000
+DTEND:20251029T000000
+DESCRIPTION:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference\n
+ \nRegion: Riga\, Latvia\nLink: https://ieee-cas.org/event/conference/2025-
+ ieee-nordic-circuits-and-systems-conference\nDeadline: 15 Aug 2025
+LOCATION:Riga\, Latvia
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiPS)
+DTSTART:20251101T000000
+DTEND:20251104T000000
+DESCRIPTION:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiP
+ S)\n\nRegion: Hong Kong\nLink: https://ieee-cas.org/event/conference/2025-
+ ieee-workshop-signal-processing-systems-sips\nDeadline: 30 Jun 2025
+LOCATION:Hong Kong
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
