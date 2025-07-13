@@ -1919,70 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISVLSI 2025 2025 IEEE Computer Society Annual Symposium on VLSI
-DTSTART:20250706T000000
-DTEND:20250709T000000
-DESCRIPTION:ISVLSI 2025 2025 IEEE Computer Society Annual Symposium on VLS
- I\n\nRegion: Kalamata\, Greece\nLink: https://ieee-cas.org/event/conferenc
- e/2025-ieee-computer-society-annual-symposium-vlsi\nDeadline: 20 Mar 2025
-LOCATION:Kalamata\, Greece
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMACD 2025 2025 21st International Conference of Synthesis\, Model
- ing\, Analysis and Simulation Methods\, and Applications to Circuits Desig
- n (SMACD)
-DTSTART:20250707T000000
-DTEND:20250710T000000
-DESCRIPTION:SMACD 2025 2025 21st International Conference of Synthesis\, M
- odeling\, Analysis and Simulation Methods\, and Applications to Circuits D
- esign (SMACD)\n\nRegion: Istanbul\, Turkıye\nLink: https://ieee-cas.org/e
- vent/conference/2025-21st-international-conference-synthesis-modeling-anal
- ysis-and-simulation\nDeadline: 14 Mar 2025
-LOCATION:Istanbul\, Turkıye
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISLPED 2025 2025 IEEE/ACM International Symposium on Low Power Ele
  ctronics and Design
 DTSTART:20250806T000000
@@ -2459,6 +2395,70 @@ DESCRIPTION:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiP
  S)\n\nRegion: Hong Kong\nLink: https://ieee-cas.org/event/conference/2025-
  ieee-workshop-signal-processing-systems-sips\nDeadline: 30 Jun 2025
 LOCATION:Hong Kong
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICECS 2025 2025 IEEE 32nd International Conference on Electronics 
+ Circuits and Systems
+DTSTART:20251117T000000
+DTEND:20251119T000000
+DESCRIPTION:ICECS 2025 2025 IEEE 32nd International Conference on Electron
+ ics Circuits and Systems\n\nRegion: Marrakech\, Morocco\nLink: https://iee
+ e-cas.org/event/conference/2025-ieee-32nd-international-conference-electro
+ nics-circuits-and-systems\nDeadline: 30 Jun 2025
+LOCATION:Marrakech\, Morocco
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCIP 2025 2025 International Conference on Visual Communications a
+ nd Image Processing
+DTSTART:20251201T000000
+DTEND:20251204T000000
+DESCRIPTION:VCIP 2025 2025 International Conference on Visual Communicatio
+ ns and Image Processing\n\nRegion: Klagenfurt\, Austria\nLink: https://iee
+ e-cas.org/event/conference/2025-international-conference-visual-communicat
+ ions-and-image-processing\nDeadline: 21 Jul 2025
+LOCATION:Klagenfurt\, Austria
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
