@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISLPED 2025 2025 IEEE/ACM International Symposium on Low Power Ele
- ctronics and Design
-DTSTART:20250806T000000
-DTEND:20250808T000000
-DESCRIPTION:ISLPED 2025 2025 IEEE/ACM International Symposium on Low Power
-  Electronics and Design\n\nRegion: Iceland\nLink: https://ieee-cas.org/eve
- nt/conference/2025-ieeeacm-international-symposium-low-power-electronics-a
- nd-design\nDeadline: 10 Mar 2025
-LOCATION:Iceland
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MWSCAS 2025 2025 IEEE International Midwest Symposium on Circuits 
  and Systems
 DTSTART:20250810T000000
@@ -2294,15 +2262,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
+SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
+ ts and Systems
 DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
+DTEND:20251027T000000
+DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
+ rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
+ event/conference/2025-ieee-international-symposium-integrated-circuits-and
+ -systems\nDeadline: 6 Mar 2025
+LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2326,15 +2294,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
- ts and Systems
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
 DTSTART:20251026T000000
-DTEND:20251027T000000
-DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
- rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
- event/conference/2025-ieee-international-symposium-integrated-circuits-and
- -systems\nDeadline: 6 Mar 2025
-LOCATION:Qingdao\, China
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2459,6 +2427,36 @@ DESCRIPTION:VCIP 2025 2025 International Conference on Visual Communicatio
  e-cas.org/event/conference/2025-international-conference-visual-communicat
  ions-and-image-processing\nDeadline: 21 Jul 2025
 LOCATION:Klagenfurt\, Austria
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICM 2025 2025 International Conference on Microelectronics
+DTSTART:20251214T000000
+DTEND:20251217T000000
+DESCRIPTION:ICM 2025 2025 International Conference on Microelectronics\n\n
+ Region: Cairo\, Egypt\nLink: https://ieee-cas.org/event/conference/2025-in
+ ternational-conference-microelectronics\nDeadline: 29 Sep 2025
+LOCATION:Cairo\, Egypt
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
