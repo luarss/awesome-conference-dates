@@ -2230,6 +2230,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ICICM 2025 2025 10th International Conference on Integrated Circui
+ ts and Microsystems
+DTSTART:20251017T000000
+DTEND:20251019T000000
+DESCRIPTION:ICICM 2025 2025 10th International Conference on Integrated Ci
+ rcuits and Microsystems\n\nRegion: Hefei\, China\nLink: https://ieee-cas.o
+ rg/event/conference/2025-10th-international-conference-integrated-circuits
+ -and-microsystems\nDeadline: 5 Sep 2025
+LOCATION:Hefei\, China
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
  d Design
 DTSTART:20251026T000000
