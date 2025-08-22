@@ -2262,15 +2262,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
+SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
+ ts and Systems
 DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
+DTEND:20251027T000000
+DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
+ rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
+ event/conference/2025-ieee-international-symposium-integrated-circuits-and
+ -systems\nDeadline: 6 Mar 2025
+LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2294,15 +2294,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
- ts and Systems
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
 DTSTART:20251026T000000
-DTEND:20251027T000000
-DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
- rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
- event/conference/2025-ieee-international-symposium-integrated-circuits-and
- -systems\nDeadline: 6 Mar 2025
-LOCATION:Qingdao\, China
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2544,6 +2544,36 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CICC 2026 2026 IEEE Custom Integrated Circuits Conference
+DTSTART:20260419T000000
+DTEND:20260422T000000
+DESCRIPTION:CICC 2026 2026 IEEE Custom Integrated Circuits Conference\n\nR
+ egion: Seattle\, Washington\, USA\nLink: https://ieee-cas.org/event/confer
+ ence/2026-ieee-custom-integrated-circuits-conference\nDeadline: 
+LOCATION:Seattle\, Washington\, USA
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISCAS 2026 2026 IEEE International Symposium on Circuits and Syste
  ms
 DTSTART:20260524T000000
@@ -2678,6 +2708,36 @@ DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
  on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
  e-conference-agrifood-electronics\nDeadline: 
 LOCATION:Cagliari\, Italy
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESWeek 2026 2026 Embedded Systems Week
+DTSTART:20260927T000000
+DTEND:20261002T000000
+DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\, 
+ Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
+ eek\nDeadline: 
+LOCATION:Barcelona\, Spain
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2864,6 +2924,38 @@ DESCRIPTION:ISCAS 2027 2027 IEEE International Symposium on Circuits and S
  ystems\n\nRegion: Bordeaux\, France\nLink: https://ieee-cas.org/event/conf
  erence/2027-ieee-international-symposium-circuits-and-systems\nDeadline: 
 LOCATION:Bordeaux\, France
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AICAS 2027 2027 IEEE 9th International Conference on Artificial In
+ telligence Circuits and Systems
+DTSTART:20270914T000000
+DTEND:20270916T000000
+DESCRIPTION:AICAS 2027 2027 IEEE 9th International Conference on Artificia
+ l Intelligence Circuits and Systems\n\nRegion: Hangzhou\, China\nLink: htt
+ ps://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-
+ artificial-intelligence-circuits-and\nDeadline: 
+LOCATION:Hangzhou\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
