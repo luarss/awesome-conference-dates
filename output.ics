@@ -2073,15 +2073,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
- ems
+SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
+  Large Scale Integration (VLSI-SoC)
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
- Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
- nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 11 J
- ul 2025
-LOCATION:Busan\, Korea
+DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
+ Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
+ ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
+ l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 14 Jun 2025
+LOCATION:Puerto Varas\, Chile
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2105,15 +2105,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on Very
-  Large Scale Integration (VLSI-SoC)
+SUMMARY:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and Syst
+ ems
 DTSTART:20251012T000000
 DTEND:20251015T000000
-DESCRIPTION:VLSI-SoC 2025 2025 IFIP/IEEE 33rd International Conference on 
- Very Large Scale Integration (VLSI-SoC)\n\nRegion: Puerto Varas\, Chile\nL
- ink: https://ieee-cas.org/event/conference/2025-ifipieee-33rd-internationa
- l-conference-very-large-scale-integration-vlsi-soc\nDeadline: 14 Jun 2025
-LOCATION:Puerto Varas\, Chile
+DESCRIPTION:APCCAS 2025 2025 IEEE Asia Pacific Conference on Circuits and 
+ Systems\n\nRegion: Busan\, Korea\nLink: https://ieee-cas.org/event/confere
+ nce/2025-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 11 J
+ ul 2025
+LOCATION:Busan\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2230,38 +2230,6 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
-DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
  ts and Systems
 DTSTART:20251026T000000
@@ -2294,12 +2262,44 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
+DTSTART:20251026T000000
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference
 DTSTART:20251028T000000
 DTEND:20251029T000000
 DESCRIPTION:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference\n
  \nRegion: Riga\, Latvia\nLink: https://ieee-cas.org/event/conference/2025-
- ieee-nordic-circuits-and-systems-conference\nDeadline: 15 Aug 2025
+ ieee-nordic-circuits-and-systems-conference\nDeadline: 31 Aug 2025
 LOCATION:Riga\, Latvia
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2425,6 +2425,38 @@ DESCRIPTION:ICM 2025 2025 International Conference on Microelectronics\n\n
  Region: Cairo\, Egypt\nLink: https://ieee-cas.org/event/conference/2025-in
  ternational-conference-microelectronics\nDeadline: 29 Sep 2025
 LOCATION:Cairo\, Egypt
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLSID 2026 2026 39th International Conference on VLSI Design & 25t
+ h International Conference on Embedded Systems
+DTSTART:20260103T000000
+DTEND:20260107T000000
+DESCRIPTION:VLSID 2026 2026 39th International Conference on VLSI Design &
+  25th International Conference on Embedded Systems\n\nRegion: Pune\, India
+ \nLink: https://ieee-cas.org/event/conference/2026-39th-international-conf
+ erence-vlsi-design-25th-international-conference\nDeadline: 17 Aug 2025
+LOCATION:Pune\, India
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
