@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESSERC 2025 2025 IEEE European Solid-State Electronics Research Co
- nference (ESSERC)
-DTSTART:20250908T000000
-DTEND:20250911T000000
-DESCRIPTION:ESSERC 2025 2025 IEEE European Solid-State Electronics Researc
- h Conference (ESSERC)\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.
- org/event/conference/2025-ieee-european-solid-state-electronics-research-c
- onference-esserc\nDeadline: 4 Apr 2025
-LOCATION:Munich\, Germany
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PRIME 2025 2025 20th International Conference on PhD Research in M
  icroelectronics and Electronics
 DTSTART:20250921T000000
@@ -2425,6 +2393,38 @@ DESCRIPTION:ICM 2025 2025 International Conference on Microelectronics\n\n
  Region: Cairo\, Egypt\nLink: https://ieee-cas.org/event/conference/2025-in
  ternational-conference-microelectronics\nDeadline: 29 Sep 2025
 LOCATION:Cairo\, Egypt
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLSID 2026 2026 39th International Conference on VLSI Design & 25t
+ h International Conference on Embedded Systems
+DTSTART:20260103T000000
+DTEND:20260107T000000
+DESCRIPTION:VLSID 2026 2026 39th International Conference on VLSI Design &
+  25th International Conference on Embedded Systems\n\nRegion: Pune\, India
+ \nLink: https://ieee-cas.org/event/conference/2026-39th-international-conf
+ erence-vlsi-design-25th-international-conference\nDeadline: 17 Aug 2025
+LOCATION:Pune\, India
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
