@@ -2487,7 +2487,7 @@ DTEND:20260227T000000
 DESCRIPTION:LASCAS 2026 2026 17th IEEE Latin American Symposium on Circuit
  s and Systems\n\nRegion: Arequipa\, Peru\nLink: https://ieee-cas.org/event
  /conference/2026-17th-ieee-latin-american-symposium-circuits-and-systems\n
- Deadline: 15 Sep 2025
+ Deadline: 22 Sep 2025
 LOCATION:Arequipa\, Peru
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2639,8 +2639,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AICAS 2026 2026 IEEE 8th International Conference on Artificial In
  telligence Circuits and Systems
-DTSTART:20260916T000000
-DTEND:20260918T000000
+DTSTART:20260914T000000
+DTEND:20260916T000000
 DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
  l Intelligence Circuits and Systems\n\nRegion: Ha Long Bay\, Vietnam\nLink
  : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
