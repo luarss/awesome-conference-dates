@@ -2517,7 +2517,8 @@ DTSTART:20260419T000000
 DTEND:20260422T000000
 DESCRIPTION:CICC 2026 2026 IEEE Custom Integrated Circuits Conference\n\nR
  egion: Seattle\, Washington\, USA\nLink: https://ieee-cas.org/event/confer
- ence/2026-ieee-custom-integrated-circuits-conference\nDeadline: 
+ ence/2026-ieee-custom-integrated-circuits-conference\nDeadline: 17 Nov 202
+ 5
 LOCATION:Seattle\, Washington\, USA
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2949,8 +2950,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AICAS 2027 2027 IEEE 9th International Conference on Artificial In
  telligence Circuits and Systems
-DTSTART:20270914T000000
-DTEND:20270916T000000
+DTSTART:20270916T000000
+DTEND:20270918T000000
 DESCRIPTION:AICAS 2027 2027 IEEE 9th International Conference on Artificia
  l Intelligence Circuits and Systems\n\nRegion: Hangzhou\, China\nLink: htt
  ps://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-
