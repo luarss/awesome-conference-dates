@@ -2198,15 +2198,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
- ts and Systems
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
 DTSTART:20251026T000000
-DTEND:20251027T000000
-DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
- rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
- event/conference/2025-ieee-international-symposium-integrated-circuits-and
- -systems\nDeadline: 6 Mar 2025
-LOCATION:Qingdao\, China
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2230,15 +2230,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
+SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
+ ts and Systems
 DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
+DTEND:20251027T000000
+DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
+ rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
+ event/conference/2025-ieee-international-symposium-integrated-circuits-and
+ -systems\nDeadline: 6 Mar 2025
+LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2615,6 +2615,38 @@ DESCRIPTION:MWSCAS 2026 2026 IEEE International Midwest Symposium on Circu
  vent/conference/2026-ieee-international-midwest-symposium-circuits-and-sys
  tems\nDeadline: 
 LOCATION:Cincinnati\, Ohio
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SBCCI 2026 2026 Symposium on Integrated Circuits and Systems Desig
+ n
+DTSTART:20260824T000000
+DTEND:20260828T000000
+DESCRIPTION:SBCCI 2026 2026 Symposium on Integrated Circuits and Systems D
+ esign\n\nRegion: São Paulo\, Brazil\nLink: https://ieee-cas.org/event/con
+ ference/2026-symposium-integrated-circuits-and-systems-design\nDeadline: 3
+ 1 Mar 2026
+LOCATION:São Paulo\, Brazil
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
