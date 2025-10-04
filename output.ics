@@ -1949,36 +1949,6 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOCC 2025 2025 38th IEEE International System-on-Chip Conference
-DTSTART:20250929T000000
-DTEND:20251001T000000
-DESCRIPTION:SOCC 2025 2025 38th IEEE International System-on-Chip Conferen
- ce\n\nRegion: Dubai\, U.A.E.\nLink: https://ieee-cas.org/event/conference/
- 2025-38th-ieee-international-system-chip-conference\nDeadline: 12 May 2025
-LOCATION:Dubai\, U.A.E.
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CAFE 2025 2025 IEEE Conference on AgriFood Electronics (CAFE)
 DTSTART:20251008T000000
 DTEND:20251010T000000
@@ -2166,15 +2136,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
+SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
+ ts and Systems
 DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
+DTEND:20251027T000000
+DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
+ rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
+ event/conference/2025-ieee-international-symposium-integrated-circuits-and
+ -systems\nDeadline: 6 Mar 2025
+LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2198,15 +2168,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISICAS 2025 2025 IEEE International Symposium on Integrated Circui
- ts and Systems
+SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
+ d Design
 DTSTART:20251026T000000
-DTEND:20251027T000000
-DESCRIPTION:ISICAS 2025 2025 IEEE International Symposium on Integrated Ci
- rcuits and Systems\n\nRegion: Qingdao\, China\nLink: https://ieee-cas.org/
- event/conference/2025-ieee-international-symposium-integrated-circuits-and
- -systems\nDeadline: 6 Mar 2025
-LOCATION:Qingdao\, China
+DTEND:20251030T000000
+DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
+ Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
+ /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
+ eadline: 14 Apr 2025
+LOCATION:Munich\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2448,14 +2418,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CICC 2026 2026 IEEE Custom Integrated Circuits Conference
-DTSTART:20260419T000000
-DTEND:20260422T000000
-DESCRIPTION:CICC 2026 2026 IEEE Custom Integrated Circuits Conference\n\nR
- egion: Seattle\, Washington\, USA\nLink: https://ieee-cas.org/event/confer
- ence/2026-ieee-custom-integrated-circuits-conference\nDeadline: 17 Nov 202
- 5
-LOCATION:Seattle\, Washington\, USA
+SUMMARY:LASCAS 2026 2026 17th IEEE Latin American Symposium on Circuits an
+ d Systems
+DTSTART:20260224T000000
+DTEND:20260227T000000
+DESCRIPTION:LASCAS 2026 2026 17th IEEE Latin American Symposium on Circuit
+ s and Systems\n\nRegion: Arequipa\, Peru\nLink: https://ieee-cas.org/event
+ /conference/2026-17th-ieee-latin-american-symposium-circuits-and-systems\n
+ Deadline: 22 Sep 2025
+LOCATION:Arequipa\, Peru
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
