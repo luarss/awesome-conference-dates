@@ -2452,44 +2452,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CICC 2026 2026 IEEE Custom Integrated Circuits Conference
-DTSTART:20260419T000000
-DTEND:20260422T000000
-DESCRIPTION:CICC 2026 2026 IEEE Custom Integrated Circuits Conference\n\nR
- egion: Seattle\, Washington\, USA\nLink: https://ieee-cas.org/event/confer
- ence/2026-ieee-custom-integrated-circuits-conference\nDeadline: 17 Nov 202
- 5
-LOCATION:Seattle\, Washington\, USA
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISCAS 2026 2026 IEEE International Symposium on Circuits and Syste
  ms
 DTSTART:20260524T000000
 DTEND:20260527T000000
 DESCRIPTION:ISCAS 2026 2026 IEEE International Symposium on Circuits and S
  ystems\n\nRegion: Shanghai\, China\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-international-symposium-circuits-and-systems\nDeadline: 12
+ rence/2026-ieee-international-symposium-circuits-and-systems\nDeadline: 19
   Oct 2025
 LOCATION:Shanghai\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
