@@ -2452,38 +2452,6 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AICAS 2026 2026 IEEE 8th International Conference on Artificial In
- telligence Circuits and Systems
-DTSTART:20260916T000000
-DTEND:20260918T000000
-DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
- l Intelligence Circuits and Systems\n\nRegion: Ha Long Bay\, Vietnam\nLink
- : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
- ence-artificial-intelligence-circuits-and\nDeadline: 22 Mar 2026
-LOCATION:Ha Long Bay\, Vietnam
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
 DTSTART:20260923T000000
 DTEND:20260925T000000
@@ -2739,6 +2707,36 @@ DESCRIPTION:ISCAS 2027 2027 IEEE International Symposium on Circuits and S
  ystems\n\nRegion: Bordeaux\, France\nLink: https://ieee-cas.org/event/conf
  erence/2027-ieee-international-symposium-circuits-and-systems\nDeadline: 
 LOCATION:Bordeaux\, France
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEWCAS 2027 2027 IEEE 25th Interregional NEWCAS Conference
+DTSTART:20270621T000000
+DTEND:20270623T000000
+DESCRIPTION:NEWCAS 2027 2027 IEEE 25th Interregional NEWCAS Conference\n\n
+ Region: Cork\, Ireland\nLink: https://ieee-cas.org/event/conference/2027-i
+ eee-25th-interregional-newcas-conference\nDeadline: 
+LOCATION:Cork\, Ireland
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
