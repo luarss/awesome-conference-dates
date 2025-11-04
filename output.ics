@@ -1919,68 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCAD 2025 2025 IEEE/ACM International Conference On Computer Aide
- d Design
-DTSTART:20251026T000000
-DTEND:20251030T000000
-DESCRIPTION:ICCAD 2025 2025 IEEE/ACM International Conference On Computer 
- Aided Design\n\nRegion: Munich\, Germany\nLink: https://ieee-cas.org/event
- /conference/2025-ieeeacm-international-conference-computer-aided-design\nD
- eadline: 14 Apr 2025
-LOCATION:Munich\, Germany
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference
-DTSTART:20251028T000000
-DTEND:20251029T000000
-DESCRIPTION:NorCAS 2025 2025 IEEE Nordic Circuits and Systems Conference\n
- \nRegion: Riga\, Latvia\nLink: https://ieee-cas.org/event/conference/2025-
- ieee-nordic-circuits-and-systems-conference\nDeadline: 31 Aug 2025
-LOCATION:Riga\, Latvia
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiPS)
 DTSTART:20251101T000000
 DTEND:20251104T000000
@@ -2296,13 +2234,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
+ .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
+ fined-hardware\nDeadline: 
+LOCATION:Niagara\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2326,15 +2266,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
- .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
- fined-hardware\nDeadline: 
-LOCATION:Niagara\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2429,6 +2367,98 @@ DESCRIPTION:SBCCI 2026 2026 Symposium on Integrated Circuits and Systems D
  ference/2026-symposium-integrated-circuits-and-systems-design\nDeadline: 3
  1 Mar 2026
 LOCATION:São Paulo\, Brazil
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AICAS 2026 2026 IEEE 8th International Conference on Artificial In
+ telligence Circuits and Systems
+DTSTART:20260916T000000
+DTEND:20260918T000000
+DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
+ l Intelligence Circuits and Systems\n\nRegion: Ha Long Bay\, Vietnam\nLink
+ : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
+ ence-artificial-intelligence-circuits-and\nDeadline: 22 Mar 2026
+LOCATION:Ha Long Bay\, Vietnam
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
+DTSTART:20260923T000000
+DTEND:20260925T000000
+DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
+ on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
+ e-conference-agrifood-electronics\nDeadline: 
+LOCATION:Cagliari\, Italy
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESWeek 2026 2026 Embedded Systems Week
+DTSTART:20261004T000000
+DTEND:20261009T000000
+DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\, 
+ Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
+ eek\nDeadline: 
+LOCATION:Barcelona\, Spain
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
