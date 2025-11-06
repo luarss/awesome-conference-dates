@@ -1919,13 +1919,13 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiPS)
-DTSTART:20251101T000000
-DTEND:20251104T000000
-DESCRIPTION:SiPS 2025 2025 IEEE Workshop on Signal Processing Systems (SiP
- S)\n\nRegion: Hong Kong\nLink: https://ieee-cas.org/event/conference/2025-
- ieee-workshop-signal-processing-systems-sips\nDeadline: 30 Jun 2025
-LOCATION:Hong Kong
+SUMMARY:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop
+DTSTART:20251117T000000
+DTEND:20251117T000000
+DESCRIPTION:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop\n\nRegion
+ : Marrakesh\, Morocco\nLink: https://ieee-cas.org/event/workshop/open-rtl-
+ gdsii-flow-standards-workshop\nDeadline: 
+LOCATION:Marrakesh\, Morocco
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2234,15 +2234,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
- .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
- fined-hardware\nDeadline: 
-LOCATION:Niagara\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2266,13 +2264,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
+ .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
+ fined-hardware\nDeadline: 
+LOCATION:Niagara\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2459,6 +2459,36 @@ DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\,
  Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
  eek\nDeadline: 
 LOCATION:Barcelona\, Spain
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conference
+DTSTART:20261008T000000
+DTEND:20261010T000000
+DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
+ ce\n\nRegion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference
+ /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 
+LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
