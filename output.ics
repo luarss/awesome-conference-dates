@@ -1919,13 +1919,15 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop
+SUMMARY:ICECS 2025 2025 IEEE 32nd International Conference on Electronics 
+ Circuits and Systems
 DTSTART:20251117T000000
-DTEND:20251117T000000
-DESCRIPTION:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop\n\nRegion
- : Marrakesh\, Morocco\nLink: https://ieee-cas.org/event/workshop/open-rtl-
- gdsii-flow-standards-workshop\nDeadline: 
-LOCATION:Marrakesh\, Morocco
+DTEND:20251119T000000
+DESCRIPTION:ICECS 2025 2025 IEEE 32nd International Conference on Electron
+ ics Circuits and Systems\n\nRegion: Marrakech\, Morocco\nLink: https://iee
+ e-cas.org/event/conference/2025-ieee-32nd-international-conference-electro
+ nics-circuits-and-systems\nDeadline: 30 Jun 2025
+LOCATION:Marrakech\, Morocco
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1949,15 +1951,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICECS 2025 2025 IEEE 32nd International Conference on Electronics 
- Circuits and Systems
+SUMMARY:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop
 DTSTART:20251117T000000
-DTEND:20251119T000000
-DESCRIPTION:ICECS 2025 2025 IEEE 32nd International Conference on Electron
- ics Circuits and Systems\n\nRegion: Marrakech\, Morocco\nLink: https://iee
- e-cas.org/event/conference/2025-ieee-32nd-international-conference-electro
- nics-circuits-and-systems\nDeadline: 30 Jun 2025
-LOCATION:Marrakech\, Morocco
+DTEND:20251117T000000
+DESCRIPTION:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop\n\nRegion
+ : Marrakesh\, Morocco\nLink: https://ieee-cas.org/event/workshop/open-rtl-
+ gdsii-flow-standards-workshop\nDeadline: 
+LOCATION:Marrakesh\, Morocco
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2139,6 +2139,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ISQED 2026 2026 27th International Symposium on Quality Electronic
+  Design
+DTSTART:20260408T000000
+DTEND:20260410T000000
+DESCRIPTION:ISQED 2026 2026 27th International Symposium on Quality Electr
+ onic Design\n\nRegion: San Francisco\, California\, USA\nLink: https://iee
+ e-cas.org/event/conference/2026-27th-international-symposium-quality-elect
+ ronic-design\nDeadline: 17 Nov 2025
+LOCATION:San Francisco\, California\, USA
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VLSI TSA 2026 2026 International VLSI Symposium on Technology\, Sy
  stems and Applications
 DTSTART:20260413T000000
@@ -2234,6 +2266,38 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
+DTSTART:20260621T000000
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
+ .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
+ fined-hardware\nDeadline: 
+LOCATION:Niagara\, Canada
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
 DTEND:20260624T000000
@@ -2264,15 +2328,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
-DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
- .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
- fined-hardware\nDeadline: 
-LOCATION:Niagara\, Canada
+SUMMARY:ICME 2026 2026 IEEE International Conference on Multimedia and Exp
+ o
+DTSTART:20260705T000000
+DTEND:20260709T000000
+DESCRIPTION:ICME 2026 2026 IEEE International Conference on Multimedia and
+  Expo\n\nRegion: Bangkok\, Thailand\nLink: https://ieee-cas.org/event/conf
+ erence/2026-ieee-international-conference-multimedia-and-expo\nDeadline: 1
+ 2 Dec 2025
+LOCATION:Bangkok\, Thailand
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2399,66 +2463,6 @@ DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
  : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
  ence-artificial-intelligence-circuits-and\nDeadline: 22 Mar 2026
 LOCATION:Ha Long Bay\, Vietnam
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
-DTSTART:20260923T000000
-DTEND:20260925T000000
-DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
- on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
- e-conference-agrifood-electronics\nDeadline: 
-LOCATION:Cagliari\, Italy
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESWeek 2026 2026 Embedded Systems Week
-DTSTART:20261004T000000
-DTEND:20261009T000000
-DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\, 
- Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
- eek\nDeadline: 
-LOCATION:Barcelona\, Spain
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
