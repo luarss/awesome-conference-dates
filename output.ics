@@ -1951,36 +1951,6 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop
-DTSTART:20251117T000000
-DTEND:20251117T000000
-DESCRIPTION:ORFSW 2025 Open RTL-to-GDSII Flow Standards Workshop\n\nRegion
- : Marrakesh\, Morocco\nLink: https://ieee-cas.org/event/workshop/open-rtl-
- gdsii-flow-standards-workshop\nDeadline: 
-LOCATION:Marrakesh\, Morocco
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VCIP 2025 2025 International Conference on Visual Communications a
  nd Image Processing
 DTSTART:20251201T000000
@@ -2463,6 +2433,36 @@ DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
  : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
  ence-artificial-intelligence-circuits-and\nDeadline: 22 Mar 2026
 LOCATION:Ha Long Bay\, Vietnam
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
+DTSTART:20260923T000000
+DTEND:20260925T000000
+DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
+ on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
+ e-conference-agrifood-electronics\nDeadline: 
+LOCATION:Cagliari\, Italy
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
