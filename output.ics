@@ -2367,7 +2367,7 @@ DTSTART:20260923T000000
 DTEND:20260925T000000
 DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
  on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
- e-conference-agrifood-electronics\nDeadline: 
+ e-conference-agrifood-electronics\nDeadline: 12 Jun 2026
 LOCATION:Cagliari\, Italy
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
