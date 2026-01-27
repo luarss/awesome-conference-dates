@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASP-DAC 2026 2026 IEEE 31st Asia and South Pacific Design Automati
- on Conference
-DTSTART:20260119T000000
-DTEND:20260122T000000
-DESCRIPTION:ASP-DAC 2026 2026 IEEE 31st Asia and South Pacific Design Auto
- mation Conference\n\nRegion: Lantau\, Hong Kong\nLink: https://ieee-cas.or
- g/event/conference/2026-ieee-31st-asia-and-south-pacific-design-automation
- -conference\nDeadline: 4 Jul 2025
-LOCATION:Lantau\, Hong Kong
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LASCAS 2026 2026 17th IEEE Latin American Symposium on Circuits an
  d Systems
 DTSTART:20260224T000000
@@ -2142,13 +2110,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
+ .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
+ fined-hardware\nDeadline: 
+LOCATION:Niagara\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2172,15 +2142,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
- .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
- fined-hardware\nDeadline: 
-LOCATION:Niagara\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2429,6 +2397,38 @@ DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
  ce\n\nRegion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference
  /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 
 LOCATION:Incheon\, Korea
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on Very
+  Large Scale Integration
+DTSTART:20261011T000000
+DTEND:20261014T000000
+DESCRIPTION:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on 
+ Very Large Scale Integration\n\nRegion: Limassol\, Cyprus\nLink: https://i
+ eee-cas.org/event/conference/2026-ifipieee-34rd-international-conference-v
+ ery-large-scale-integration\nDeadline: 20 Apr 2026
+LOCATION:Limassol\, Cyprus
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
