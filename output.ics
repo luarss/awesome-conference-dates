@@ -2147,7 +2147,8 @@ DTSTART:20260621T000000
 DTEND:20260624T000000
 DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
  Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 9 Feb 2026
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
+ 6
 LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2211,6 +2212,38 @@ DESCRIPTION:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLS
  I\n\nRegion: Kolkata\, India\nLink: https://ieee-cas.org/event/conference/
  2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 10 Feb 2026
 LOCATION:Kolkata\, India
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISCIT 2026 2026 25th International Symposium on Communications and
+  Information Technologies (ISCIT)
+DTSTART:20260728T000000
+DTEND:20260730T000000
+DESCRIPTION:ISCIT 2026 2026 25th International Symposium on Communications
+  and Information Technologies (ISCIT)\n\nRegion: Qingdao\, China\nLink: ht
+ tps://ieee-cas.org/event/conference/2026-25th-international-symposium-comm
+ unications-and-information-technologies\nDeadline: 15 Apr 2026
+LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2398,36 +2431,6 @@ DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\,
  Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
  eek\nDeadline: 30 Mar 2026
 LOCATION:Barcelona\, Spain
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conference
-DTSTART:20261008T000000
-DTEND:20261010T000000
-DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
- ce\n\nRegion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference
- /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 
-LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
