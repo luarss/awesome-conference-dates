@@ -2110,15 +2110,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
- .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
- fined-hardware\nDeadline: 
-LOCATION:Niagara\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
+ 6
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2142,14 +2141,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
- 6
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Niagara\, Canada\nLink: https://ieee-cas
+ .org/event/conference/2026-ieee-24th-international-forum-mpsoc-software-de
+ fined-hardware\nDeadline: 
+LOCATION:Niagara\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2244,7 +2244,7 @@ DTSTART:20260707T000000
 DTEND:20260710T000000
 DESCRIPTION:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLS
  I\n\nRegion: Kolkata\, India\nLink: https://ieee-cas.org/event/conference/
- 2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 10 Feb 2026
+ 2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 1 Mar 2026
 LOCATION:Kolkata\, India
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2397,13 +2397,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
-DTSTART:20260923T000000
-DTEND:20260925T000000
-DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
- on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
- e-conference-agrifood-electronics\nDeadline: 12 Jun 2026
-LOCATION:Cagliari\, Italy
+SUMMARY:PRIME 2026 2026 21st International Conference on PhD Research in M
+ icroelectronics and Electronics
+DTSTART:20260920T000000
+DTEND:20260923T000000
+DESCRIPTION:PRIME 2026 2026 21st International Conference on PhD Research 
+ in Microelectronics and Electronics\n\nRegion: Berlin\, Germany\nLink: htt
+ ps://ieee-cas.org/event/conference/2026-21st-international-conference-phd-
+ research-microelectronics-and-electronics\nDeadline: 5 Apr 2026
+LOCATION:Berlin\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2427,14 +2429,13 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOCC 2026 2026 39th IEEE International System-on-Chip Conference
-DTSTART:20260930T000000
-DTEND:20261002T000000
-DESCRIPTION:SOCC 2026 2026 39th IEEE International System-on-Chip Conferen
- ce\n\nRegion: Heidelberg\, Germany\nLink: https://ieee-cas.org/event/confe
- rence/2026-39th-ieee-international-system-chip-conference\nDeadline: 1 Apr
-  2026
-LOCATION:Heidelberg\, Germany
+SUMMARY:CAFE 2026 2026 IEEE Conference on AgriFood Electronics
+DTSTART:20260923T000000
+DTEND:20260925T000000
+DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
+ on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
+ e-conference-agrifood-electronics\nDeadline: 12 Jun 2026
+LOCATION:Cagliari\, Italy
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
