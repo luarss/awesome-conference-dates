@@ -2212,7 +2212,7 @@ DTSTART:20260707T000000
 DTEND:20260710T000000
 DESCRIPTION:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLS
  I\n\nRegion: Kolkata\, India\nLink: https://ieee-cas.org/event/conference/
- 2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 1 Mar 2026
+ 2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 15 Mar 2026
 LOCATION:Kolkata\, India
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2244,7 +2244,7 @@ DTEND:20260730T000000
 DESCRIPTION:ISCIT 2026 2026 25th International Symposium on Communications
   and Information Technologies (ISCIT)\n\nRegion: Qingdao\, China\nLink: ht
  tps://ieee-cas.org/event/conference/2026-25th-international-symposium-comm
- unications-and-information-technologies\nDeadline: 15 Apr 2026
+ unications-and-information-technologies\nDeadline: 15 May 2026
 LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
