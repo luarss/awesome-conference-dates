@@ -2276,7 +2276,7 @@ DTEND:20260812T000000
 DESCRIPTION:MWSCAS 2026 2026 IEEE International Midwest Symposium on Circu
  its and Systems\n\nRegion: Cincinnati\, Ohio\nLink: https://ieee-cas.org/e
  vent/conference/2026-ieee-international-midwest-symposium-circuits-and-sys
- tems\nDeadline: 23 Mar 2026
+ tems\nDeadline: 30 Mar 2026
 LOCATION:Cincinnati\, Ohio
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2372,7 +2372,7 @@ DTEND:20260918T000000
 DESCRIPTION:AICAS 2026 2026 IEEE 8th International Conference on Artificia
  l Intelligence Circuits and Systems\n\nRegion: Ha Long Bay\, Vietnam\nLink
  : https://ieee-cas.org/event/conference/2026-ieee-8th-international-confer
- ence-artificial-intelligence-circuits-and\nDeadline: 22 Mar 2026
+ ence-artificial-intelligence-circuits-and\nDeadline: 5 Apr 2026
 LOCATION:Ha Long Bay\, Vietnam
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
