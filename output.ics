@@ -2150,7 +2150,7 @@ DESCRIPTION:SMACD 2026 2026 22nd International Conference on Synthesis\, M
  odeling\, Analysis and Simulation Methods\, and Applications to Circuits D
  esign\n\nRegion: Dresden\, Germany\nLink: https://ieee-cas.org/event/confe
  rence/2026-22nd-international-conference-synthesis-modeling-analysis-and-s
- imulation\nDeadline: 20 Mar 2026
+ imulation\nDeadline: 27 Mar 2026
 LOCATION:Dresden\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2340,7 +2340,7 @@ DTEND:20260910T000000
 DESCRIPTION:ESSERC 2026 IEEE European Solid-State Electronics Research Con
  ference\n\nRegion: Palma de Mallorca\, Spain\nLink: https://ieee-cas.org/e
  vent/conference/2026-ieee-european-solid-state-electronics-research-confer
- ence\nDeadline: 3 Apr 2026
+ ence\nDeadline: 10 Apr 2026
 LOCATION:Palma de Mallorca\, Spain
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
