@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISQED 2026 2026 27th International Symposium on Quality Electronic
-  Design
-DTSTART:20260408T000000
-DTEND:20260410T000000
-DESCRIPTION:ISQED 2026 2026 27th International Symposium on Quality Electr
- onic Design\n\nRegion: San Francisco\, California\, USA\nLink: https://iee
- e-cas.org/event/conference/2026-27th-international-symposium-quality-elect
- ronic-design\nDeadline: 17 Nov 2025
-LOCATION:San Francisco\, California\, USA
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VLSI TSA 2026 2026 International VLSI Symposium on Technology\, Sy
  stems and Applications
 DTSTART:20260413T000000
@@ -2078,14 +2046,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
- 6
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
+ ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
+ are-defined-hardware\nDeadline: 
+LOCATION:Victoria\, BC\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2109,15 +2078,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
- ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
- are-defined-hardware\nDeadline: 
-LOCATION:Victoria\, BC\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
+ 6
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2436,6 +2404,37 @@ DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
  on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
  e-conference-agrifood-electronics\nDeadline: 12 Jun 2026
 LOCATION:Cagliari\, Italy
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOCC 2026 2026 39th IEEE International System-on-Chip Conference
+DTSTART:20260930T000000
+DTEND:20261002T000000
+DESCRIPTION:SOCC 2026 2026 39th IEEE International System-on-Chip Conferen
+ ce\n\nRegion: Heidelberg\, Germany\nLink: https://ieee-cas.org/event/confe
+ rence/2026-39th-ieee-international-system-chip-conference\nDeadline: 22 Ap
+ r 2026
+LOCATION:Heidelberg\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
