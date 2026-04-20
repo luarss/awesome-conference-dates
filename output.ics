@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI TSA 2026 2026 International VLSI Symposium on Technology\, Sy
- stems and Applications
-DTSTART:20260413T000000
-DTEND:20260417T000000
-DESCRIPTION:VLSI TSA 2026 2026 International VLSI Symposium on Technology\
- , Systems and Applications\n\nRegion: Hsinchu\, Taiwan\nLink: https://ieee
- -cas.org/event/conference/2026-international-vlsi-symposium-technology-sys
- tems-and-applications\nDeadline: 7 Dec 2025
-LOCATION:Hsinchu\, Taiwan
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CICC 2026 2026 IEEE Custom Integrated Circuits Conference
 DTSTART:20260419T000000
 DTEND:20260422T000000
@@ -2435,6 +2403,36 @@ DESCRIPTION:SOCC 2026 2026 39th IEEE International System-on-Chip Conferen
  rence/2026-39th-ieee-international-system-chip-conference\nDeadline: 22 Ap
  r 2026
 LOCATION:Heidelberg\, Germany
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESWeek 2026 2026 Embedded Systems Week
+DTSTART:20261004T000000
+DTEND:20261009T000000
+DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\, 
+ Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
+ eek\nDeadline: 30 Mar 2026
+LOCATION:Barcelona\, Spain
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
