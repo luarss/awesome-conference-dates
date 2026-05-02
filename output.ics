@@ -2401,8 +2401,8 @@ DTSTART:20260930T000000
 DTEND:20261002T000000
 DESCRIPTION:SOCC 2026 2026 39th IEEE International System-on-Chip Conferen
  ce\n\nRegion: Heidelberg\, Germany\nLink: https://ieee-cas.org/event/confe
- rence/2026-39th-ieee-international-system-chip-conference\nDeadline: 22 Ap
- r 2026
+ rence/2026-39th-ieee-international-system-chip-conference\nDeadline: 4 May
+  2026
 LOCATION:Heidelberg\, Germany
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
