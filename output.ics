@@ -1983,15 +1983,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
- ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
- are-defined-hardware\nDeadline: 
-LOCATION:Victoria\, BC\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
+ 6
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2015,14 +2014,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
- 6
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
+ ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
+ are-defined-hardware\nDeadline: 
+LOCATION:Victoria\, BC\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
