@@ -1,5 +1,6 @@
 from icalendar import Calendar, Event, vCalAddress, vText
 from datetime import datetime
+import re
 import requests
 from utils import get_alarms
 from parsers.ieee_cas import main as parse_ieee_cas
@@ -39,7 +40,7 @@ cal["prodid"] = "-//luarss//ai-vlsi-deadlines//EN"
 
 for entry in vlsi_conferences:
     event = Event()
-    deadline = entry.get("deadline", "")
+    deadline = entry.get("deadline") or ""
     name = entry.get("shortform") + " " + entry.get("name", "")
     link = entry.get("link", "")
     region = entry.get("region", "")
@@ -49,12 +50,16 @@ for entry in vlsi_conferences:
     )
     date_start = datetime.strptime(date_start.strip(), "%d %b %Y")
     date_end = datetime.strptime(date_end.strip(), "%d %b %Y")
+
+    uid = re.sub(r"[^a-z0-9-]", "-", name.lower().strip()) + f"-{date_start.year}"
+    event.add("uid", uid)
     event.add("dtstart", date_start)
     event.add("dtend", date_end)
     event.add("summary", name)
-    event.add(
-        "description", f"{name}\n\nRegion: {region}\nLink: {link}\nDeadline: {deadline}"
-    )
+    description = f"{name}\n\nRegion: {region}\nLink: {link}"
+    if deadline:
+        description += f"\nDeadline: {deadline}"
+    event.add("description", description)
     event.add("location", region)
     organizer = vCalAddress("MAILTO:jdoe@example.com")
     organizer.params["name"] = vText("luarss")
