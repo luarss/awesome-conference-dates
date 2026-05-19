@@ -1919,38 +1919,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICCSS 2026 2026 9th International Conference on Circuits\, Systems
-  and Simulation (ICCSS)
-DTSTART:20260508T000000
-DTEND:20260510T000000
-DESCRIPTION:ICCSS 2026 2026 9th International Conference on Circuits\, Sys
- tems and Simulation (ICCSS)\n\nRegion: Bangkok\, Thailand\nLink: https://i
- eee-cas.org/event/conference/2026-9th-international-conference-circuits-sy
- stems-and-simulation-iccss\nDeadline: 25 Jan 2026
-LOCATION:Bangkok\, Thailand
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISCAS 2026 2026 IEEE International Symposium on Circuits and Syste
  ms
 DTSTART:20260524T000000
@@ -1983,14 +1951,15 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
+SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
+ e-Defined Hardware
 DTSTART:20260621T000000
-DTEND:20260624T000000
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
- 6
-LOCATION:Saguenay\, Quebec\, Canada
+DTEND:20260626T000000
+DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
+ tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
+ ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
+ are-defined-hardware\nDeadline: 
+LOCATION:Victoria\, BC\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2014,15 +1983,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
- e-Defined Hardware
+SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
 DTSTART:20260621T000000
-DTEND:20260626T000000
-DESCRIPTION:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Sof
- tware-Defined Hardware\n\nRegion: Victoria\, BC\, Canada\nLink: https://ie
- ee-cas.org/event/conference/2026-ieee-24th-international-forum-mpsoc-softw
- are-defined-hardware\nDeadline: 
-LOCATION:Victoria\, BC\, Canada
+DTEND:20260624T000000
+DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
+ Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
+ rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
+ 6
+LOCATION:Saguenay\, Quebec\, Canada
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2434,6 +2402,37 @@ DESCRIPTION:ESWeek 2026 2026 Embedded Systems Week\n\nRegion: Barcelona\,
  Spain\nLink: https://ieee-cas.org/event/conference/2026-embedded-systems-w
  eek\nDeadline: 30 Mar 2026
 LOCATION:Barcelona\, Spain
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conference
+DTSTART:20261008T000000
+DTEND:20261010T000000
+DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
+ ce\n\nRegion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference
+ /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 25 May 20
+ 26
+LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
