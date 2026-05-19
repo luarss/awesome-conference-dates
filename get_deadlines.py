@@ -35,8 +35,7 @@ except Exception as e:
 vlsi_conferences = parse_ieee_cas()
 
 # Create calendar
-cal.add("prodid", "-//luarss//ai-vlsi-deadlines//EN")
-cal.add("version", "2.0")
+cal["prodid"] = "-//luarss//ai-vlsi-deadlines//EN"
 
 for entry in vlsi_conferences:
     event = Event()

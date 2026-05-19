@@ -12,6 +12,7 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout repository
