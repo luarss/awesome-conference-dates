@@ -1917,40 +1917,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISCAS 2026 2026 IEEE International Symposium on Circuits and Syste
- ms
-DTSTART:20260524T000000
-DTEND:20260527T000000
-UID:iscas-2026-2026-ieee-international-symposium-on-circuits-and-systems-2
- 026
-DESCRIPTION:ISCAS 2026 2026 IEEE International Symposium on Circuits and S
- ystems\n\nRegion: Shanghai\, China\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-international-symposium-circuits-and-systems\nDeadline: 26
-  Oct 2025
-LOCATION:Shanghai\, China
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
  e-Defined Hardware
 DTSTART:20260621T000000
@@ -2127,7 +2093,7 @@ UID:iscit-2026-2026-25th-international-symposium-on-communications-and-inf
 DESCRIPTION:ISCIT 2026 2026 25th International Symposium on Communications
   and Information Technologies (ISCIT)\n\nRegion: Qingdao\, China\nLink: ht
  tps://ieee-cas.org/event/conference/2026-25th-international-symposium-comm
- unications-and-information-technologies\nDeadline: 15 May 2026
+ unications-and-information-technologies\nDeadline: 30 May 2026
 LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2459,6 +2425,71 @@ DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
  /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 12 Jun 20
  26
 LOCATION:Incheon\, Korea
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISOCC 2026 2026 23rd International SoC Design Conference
+DTSTART:20261011T000000
+DTEND:20261014T000000
+UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
+DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
+ gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
+ rd-international-soc-design-conference\nDeadline: 26 Jun 2026
+LOCATION:Incheon\, Korea
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on Very
+  Large Scale Integration
+DTSTART:20261011T000000
+DTEND:20261014T000000
+UID:vlsi-soc-2026-2026-ifip-ieee-34rd-international-conference-on-very-lar
+ ge-scale-integration-2026
+DESCRIPTION:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on 
+ Very Large Scale Integration\n\nRegion: Limassol\, Cyprus\nLink: https://i
+ eee-cas.org/event/conference/2026-ifipieee-34rd-international-conference-v
+ ery-large-scale-integration\nDeadline: 4 May 2026
+LOCATION:Limassol\, Cyprus
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
