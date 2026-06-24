@@ -2481,35 +2481,4 @@ DESCRIPTION:Meeting Reminder
 TRIGGER:-P7D
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISOCC 2026 2026 23rd International SoC Design Conference
-DTSTART:20261011T000000
-DTEND:20261014T000000
-UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
-DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
- gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
- rd-international-soc-design-conference\nDeadline: 26 Jun 2026
-LOCATION:Incheon\, Korea
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
 END:VCALENDAR
