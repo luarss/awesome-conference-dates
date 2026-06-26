@@ -1917,38 +1917,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference
-DTSTART:20260621T000000
-DTEND:20260624T000000
-UID:newcas-2026-2026-ieee-24th-interregional-newcas-conference-2026
-DESCRIPTION:NEWCAS 2026 2026 IEEE 24th Interregional NEWCAS Conference\n\n
- Region: Saguenay\, Quebec\, Canada\nLink: https://ieee-cas.org/event/confe
- rence/2026-ieee-24th-interregional-newcas-conference\nDeadline: 23 Feb 202
- 6
-LOCATION:Saguenay\, Quebec\, Canada
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MPSoC 2026 2026 IEEE 24th International Forum on MPSoC for Softwar
  e-Defined Hardware
 DTSTART:20260621T000000
@@ -2093,7 +2061,7 @@ UID:iscit-2026-2026-25th-international-symposium-on-communications-and-inf
 DESCRIPTION:ISCIT 2026 2026 25th International Symposium on Communications
   and Information Technologies (ISCIT)\n\nRegion: Qingdao\, China\nLink: ht
  tps://ieee-cas.org/event/conference/2026-25th-international-symposium-comm
- unications-and-information-technologies\nDeadline: 30 May 2026
+ unications-and-information-technologies\nDeadline: 5 Jul 2026
 LOCATION:Qingdao\, China
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2328,7 +2296,7 @@ DTEND:20260925T000000
 UID:cafe-2026-2026-ieee-conference-on-agrifood-electronics-2026
 DESCRIPTION:CAFE 2026 2026 IEEE Conference on AgriFood Electronics\n\nRegi
  on: Cagliari\, Italy\nLink: https://ieee-cas.org/event/conference/2026-iee
- e-conference-agrifood-electronics\nDeadline: 12 Jun 2026
+ e-conference-agrifood-electronics\nDeadline: 27 Jun 2026
 LOCATION:Cagliari\, Italy
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2424,6 +2392,37 @@ DESCRIPTION:BioCAS 2026 2026 IEEE Biomedical Circuits and Systems Conferen
  ce\n\nRegion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference
  /2026-ieee-biomedical-circuits-and-systems-conference\nDeadline: 26 Jun 20
  26
+LOCATION:Incheon\, Korea
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISOCC 2026 2026 23rd International SoC Design Conference
+DTSTART:20261011T000000
+DTEND:20261014T000000
+UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
+DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
+ gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
+ rd-international-soc-design-conference\nDeadline: 26 Jun 2026
 LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
