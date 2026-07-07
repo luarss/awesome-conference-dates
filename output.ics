@@ -1917,42 +1917,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SMACD 2026 2026 22nd International Conference on Synthesis\, Model
- ing\, Analysis and Simulation Methods\, and Applications to Circuits Desig
- n
-DTSTART:20260629T000000
-DTEND:20260702T000000
-UID:smacd-2026-2026-22nd-international-conference-on-synthesis--modeling--
- analysis-and-simulation-methods--and-applications-to-circuits-design-2026
-DESCRIPTION:SMACD 2026 2026 22nd International Conference on Synthesis\, M
- odeling\, Analysis and Simulation Methods\, and Applications to Circuits D
- esign\n\nRegion: Dresden\, Germany\nLink: https://ieee-cas.org/event/confe
- rence/2026-22nd-international-conference-synthesis-modeling-analysis-and-s
- imulation\nDeadline: 27 Mar 2026
-LOCATION:Dresden\, Germany
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ICME 2026 2026 IEEE International Conference on Multimedia and Exp
  o
 DTSTART:20260705T000000
@@ -2489,6 +2453,37 @@ DESCRIPTION:APCCAS 2026 2026 IEEE Asia Pacific Conference on Circuits and
  rence/2026-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 22
   May 2026
 LOCATION:Fukuoka\, Japan
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SiPS 2026 IEEE Workshop on Signal Processing Systems
+DTSTART:20261102T000000
+DTEND:20261104T000000
+UID:sips-2026-ieee-workshop-on-signal-processing-systems-2026
+DESCRIPTION:SiPS 2026 IEEE Workshop on Signal Processing Systems\n\nRegion
+ : Bordeaux\, France\nLink: https://ieee-cas.org/event/conference/2026-ieee
+ -workshop-signal-processing-systems\nDeadline: 5 May 2026
+LOCATION:Bordeaux\, France
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
