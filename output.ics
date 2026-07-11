@@ -1917,40 +1917,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICME 2026 2026 IEEE International Conference on Multimedia and Exp
- o
-DTSTART:20260705T000000
-DTEND:20260709T000000
-UID:icme-2026-2026-ieee-international-conference-on-multimedia-and-expo-20
- 26
-DESCRIPTION:ICME 2026 2026 IEEE International Conference on Multimedia and
-  Expo\n\nRegion: Bangkok\, Thailand\nLink: https://ieee-cas.org/event/conf
- erence/2026-ieee-international-conference-multimedia-and-expo\nDeadline: 3
- 1 Dec 2025
-LOCATION:Bangkok\, Thailand
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLSI
 DTSTART:20260707T000000
 DTEND:20260710T000000
@@ -2484,6 +2450,40 @@ DESCRIPTION:SiPS 2026 IEEE Workshop on Signal Processing Systems\n\nRegion
  : Bordeaux\, France\nLink: https://ieee-cas.org/event/conference/2026-ieee
  -workshop-signal-processing-systems\nDeadline: 5 May 2026
 LOCATION:Bordeaux\, France
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCAD 2026 2026 IEEE/ACM International Conference On Computer Aide
+ d Design (ICCAD)
+DTSTART:20261108T000000
+DTEND:20261112T000000
+UID:iccad-2026-2026-ieee-acm-international-conference-on-computer-aided-de
+ sign--iccad--2026
+DESCRIPTION:ICCAD 2026 2026 IEEE/ACM International Conference On Computer 
+ Aided Design (ICCAD)\n\nRegion: San Jose\, California\, USA\nLink: https:/
+ /ieee-cas.org/event/conference/2026-ieeeacm-international-conference-compu
+ ter-aided-design-iccad\nDeadline: 7 Apr 2026
+LOCATION:San Jose\, California\, USA
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
