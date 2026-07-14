@@ -1917,37 +1917,6 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLSI
-DTSTART:20260707T000000
-DTEND:20260710T000000
-UID:isvlsi-2026-2026-ieee-computer-society-annual-symposium-on-vlsi-2026
-DESCRIPTION:ISVLSI 2026 2026 IEEE Computer Society Annual Symposium on VLS
- I\n\nRegion: Kolkata\, India\nLink: https://ieee-cas.org/event/conference/
- 2026-ieee-computer-society-annual-symposium-vlsi\nDeadline: 15 Mar 2026
-LOCATION:Kolkata\, India
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISCIT 2026 2026 25th International Symposium on Communications and
   Information Technologies (ISCIT)
 DTSTART:20260728T000000
@@ -2318,7 +2287,7 @@ DTEND:20261014T000000
 UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
 DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
  gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
- rd-international-soc-design-conference\nDeadline: 10 Jul 2026
+ rd-international-soc-design-conference\nDeadline: 24 Jul 2026
 LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
@@ -2484,6 +2453,40 @@ DESCRIPTION:ICCAD 2026 2026 IEEE/ACM International Conference On Computer
  /ieee-cas.org/event/conference/2026-ieeeacm-international-conference-compu
  ter-aided-design-iccad\nDeadline: 7 Apr 2026
 LOCATION:San Jose\, California\, USA
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICECS 2026 2026 IEEE 33rd International Conference on Electronics 
+ Circuits and Systems
+DTSTART:20261108T000000
+DTEND:20261111T000000
+UID:icecs-2026-2026-ieee-33rd-international-conference-on-electronics-circ
+ uits-and-systems-2026
+DESCRIPTION:ICECS 2026 2026 IEEE 33rd International Conference on Electron
+ ics Circuits and Systems\n\nRegion: Thessaloniki\, Greece\nLink: https://i
+ eee-cas.org/event/conference/2026-ieee-33rd-international-conference-elect
+ ronics-circuits-and-systems\nDeadline: 15 Jun 2026
+LOCATION:Thessaloniki\, Greece
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
