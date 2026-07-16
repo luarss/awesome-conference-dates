@@ -1917,6 +1917,43 @@ UID:automl24
 ORGANIZER:aideadlin.es
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CASIF 2026 2026 IEEE CASS Industry Forum on AI-Enabled Advanced Ra
+ dar Systems Talks: Antennas\, Amplifiers\, Radar Signal Processing Techniq
+ ues\, Radar Systems
+DTSTART:20260720T000000
+DTEND:20260720T000000
+UID:casif-2026-2026-ieee-cass-industry-forum-on-ai-enabled-advanced-radar-
+ systems-talks--antennas--amplifiers--radar-signal-processing-techniques--r
+ adar-systems-2026
+DESCRIPTION:CASIF 2026 2026 IEEE CASS Industry Forum on AI-Enabled Advance
+ d Radar Systems Talks: Antennas\, Amplifiers\, Radar Signal Processing Tec
+ hniques\, Radar Systems\n\nRegion: Islamabad\nLink: https://ieee-cas.org/e
+ vent/workshop/2026-ieee-cass-industry-forum-ai-enabled-advanced-radar-syst
+ ems-talks-antennas
+LOCATION:Islamabad
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISCIT 2026 2026 25th International Symposium on Communications and
   Information Technologies (ISCIT)
 DTSTART:20260728T000000
@@ -1996,6 +2033,40 @@ DESCRIPTION:MWSCAS 2026 2026 IEEE International Midwest Symposium on Circu
  vent/conference/2026-ieee-international-midwest-symposium-circuits-and-sys
  tems\nDeadline: 30 Mar 2026
 LOCATION:Cincinnati\, Ohio
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SSCAS IEEE CASS Seasonal School on AI and IoT Technologies for Sma
+ rt Agriculture in Uganda
+DTSTART:20260818T000000
+DTEND:20260822T000000
+UID:sscas-ieee-cass-seasonal-school-on-ai-and-iot-technologies-for-smart-a
+ griculture-in-uganda-2026
+DESCRIPTION:SSCAS IEEE CASS Seasonal School on AI and IoT Technologies for
+  Smart Agriculture in Uganda\n\nRegion: Kampala\, Uganda\nLink: https://ie
+ ee-cas.org/event/school/ieee-cass-seasonal-school-ai-and-iot-technologies-
+ smart-agriculture-uganda\nDeadline: 31 Jul 2026
+LOCATION:Kampala\, Uganda
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2419,74 +2490,6 @@ DESCRIPTION:SiPS 2026 IEEE Workshop on Signal Processing Systems\n\nRegion
  : Bordeaux\, France\nLink: https://ieee-cas.org/event/conference/2026-ieee
  -workshop-signal-processing-systems\nDeadline: 5 May 2026
 LOCATION:Bordeaux\, France
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICCAD 2026 2026 IEEE/ACM International Conference On Computer Aide
- d Design (ICCAD)
-DTSTART:20261108T000000
-DTEND:20261112T000000
-UID:iccad-2026-2026-ieee-acm-international-conference-on-computer-aided-de
- sign--iccad--2026
-DESCRIPTION:ICCAD 2026 2026 IEEE/ACM International Conference On Computer 
- Aided Design (ICCAD)\n\nRegion: San Jose\, California\, USA\nLink: https:/
- /ieee-cas.org/event/conference/2026-ieeeacm-international-conference-compu
- ter-aided-design-iccad\nDeadline: 7 Apr 2026
-LOCATION:San Jose\, California\, USA
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICECS 2026 2026 IEEE 33rd International Conference on Electronics 
- Circuits and Systems
-DTSTART:20261108T000000
-DTEND:20261111T000000
-UID:icecs-2026-2026-ieee-33rd-international-conference-on-electronics-circ
- uits-and-systems-2026
-DESCRIPTION:ICECS 2026 2026 IEEE 33rd International Conference on Electron
- ics Circuits and Systems\n\nRegion: Thessaloniki\, Greece\nLink: https://i
- eee-cas.org/event/conference/2026-ieee-33rd-international-conference-elect
- ronics-circuits-and-systems\nDeadline: 15 Jun 2026
-LOCATION:Thessaloniki\, Greece
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
