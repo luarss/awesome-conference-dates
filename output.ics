@@ -1988,6 +1988,41 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SSCAS IEEE CASS Seasonal School 2026: Emerging Technologies and In
+ telligent Methodologies for Next-Generation Circuits and Systems Design
+DTSTART:20260728T000000
+DTEND:20260730T000000
+UID:sscas-ieee-cass-seasonal-school-2026--emerging-technologies-and-intell
+ igent-methodologies-for-next-generation-circuits-and-systems-design-2026
+DESCRIPTION:SSCAS IEEE CASS Seasonal School 2026: Emerging Technologies an
+ d Intelligent Methodologies for Next-Generation Circuits and Systems Desig
+ n\n\nRegion: Sydney\, Australia\nLink: https://ieee-cas.org/event/school/i
+ eee-cass-seasonal-school-2026-emerging-technologies-and-intelligent-method
+ ologies
+LOCATION:Sydney\, Australia
+ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting Reminder
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISLPED 2026 2026 IEEE/ACM International Symposium on Low Power Ele
  ctronics and Design
 DTSTART:20260805T000000
@@ -2352,14 +2387,17 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISOCC 2026 2026 23rd International SoC Design Conference
+SUMMARY:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on Very
+  Large Scale Integration
 DTSTART:20261011T000000
 DTEND:20261014T000000
-UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
-DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
- gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
- rd-international-soc-design-conference\nDeadline: 24 Jul 2026
-LOCATION:Incheon\, Korea
+UID:vlsi-soc-2026-2026-ifip-ieee-34rd-international-conference-on-very-lar
+ ge-scale-integration-2026
+DESCRIPTION:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on 
+ Very Large Scale Integration\n\nRegion: Limassol\, Cyprus\nLink: https://i
+ eee-cas.org/event/conference/2026-ifipieee-34rd-international-conference-v
+ ery-large-scale-integration\nDeadline: 4 May 2026
+LOCATION:Limassol\, Cyprus
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2383,17 +2421,14 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on Very
-  Large Scale Integration
+SUMMARY:ISOCC 2026 2026 23rd International SoC Design Conference
 DTSTART:20261011T000000
 DTEND:20261014T000000
-UID:vlsi-soc-2026-2026-ifip-ieee-34rd-international-conference-on-very-lar
- ge-scale-integration-2026
-DESCRIPTION:VLSI-SoC 2026 2026 IFIP/IEEE 34rd International Conference on 
- Very Large Scale Integration\n\nRegion: Limassol\, Cyprus\nLink: https://i
- eee-cas.org/event/conference/2026-ifipieee-34rd-international-conference-v
- ery-large-scale-integration\nDeadline: 4 May 2026
-LOCATION:Limassol\, Cyprus
+UID:isocc-2026-2026-23rd-international-soc-design-conference-2026
+DESCRIPTION:ISOCC 2026 2026 23rd International SoC Design Conference\n\nRe
+ gion: Incheon\, Korea\nLink: https://ieee-cas.org/event/conference/2026-23
+ rd-international-soc-design-conference\nDeadline: 24 Jul 2026
+LOCATION:Incheon\, Korea
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2459,37 +2494,6 @@ DESCRIPTION:APCCAS 2026 2026 IEEE Asia Pacific Conference on Circuits and
  rence/2026-ieee-asia-pacific-conference-circuits-and-systems\nDeadline: 22
   May 2026
 LOCATION:Fukuoka\, Japan
-ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P3D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting Reminder
-TRIGGER:-P7D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SiPS 2026 IEEE Workshop on Signal Processing Systems
-DTSTART:20261102T000000
-DTEND:20261104T000000
-UID:sips-2026-ieee-workshop-on-signal-processing-systems-2026
-DESCRIPTION:SiPS 2026 IEEE Workshop on Signal Processing Systems\n\nRegion
- : Bordeaux\, France\nLink: https://ieee-cas.org/event/conference/2026-ieee
- -workshop-signal-processing-systems\nDeadline: 5 May 2026
-LOCATION:Bordeaux\, France
 ORGANIZER;NAME=luarss:MAILTO:jdoe@example.com
 BEGIN:VALARM
 ACTION:DISPLAY
