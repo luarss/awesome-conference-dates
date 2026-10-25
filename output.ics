@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:3DV 2027
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270410
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:3dv-2027-conference@awesome-conference-dates
 DESCRIPTION:International Conference on 3D Vision\nLocation: Thessaloniki\
  , Greece\nLink: https://3dvconf.github.io/2027/\nTimezone: UTC-7\nSource: 
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2027
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:aaai-2027-conference@awesome-conference-dates
 DESCRIPTION:AAAI Conference on Artificial Intelligence\nLocation: Montréa
  l\, Canada\nLink: https://aaai.org/conference/aaai/aaai-27/\nTimezone: AoE
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:AAMAS 2027 abstract deadline
 DTSTART:20261001T235959
 DTEND:20261001T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:aamas-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
  ystems\nLocation: Hanoi\, Vietnam\nLink: https://warwick.ac.uk/fac/sci/dcs
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:AAMAS 2027 deadline
 DTSTART:20261008T235959
 DTEND:20261008T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:aamas-2027-deadline@awesome-conference-dates
 DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
  ystems\nLocation: Hanoi\, Vietnam\nLink: https://warwick.ac.uk/fac/sci/dcs
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:AAMAS 2027
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270508
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:aamas-2027-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Autonomous Agents and Multiagent S
  ystems\nLocation: Hanoi\, Vietnam\nLink: https://warwick.ac.uk/fac/sci/dcs
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:ACM MM 2026
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:acm-mm-2026-conference@awesome-conference-dates
 DESCRIPTION:ACM Multimedia\nLocation: Rio de Janeiro\, Brazil\nLink: https
  ://2026.acmmm.org/\nTimezone: AoE\nSource: huggingface/ai-deadlines
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:CEC 2027 deadline
 DTSTART:20270115T235959
 DTEND:20270115T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:cec-2027-deadline@awesome-conference-dates
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nLocation: Edinburgh
  \, United Kingdom\nLink: http://ieeecec.org\nTimezone: AoE\nSource: huggin
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:CEC 2027
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:cec-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE Congress on Evolutionary Computation\nLocation: Edinburgh
  \, United Kingdom\nLink: http://ieeecec.org\nTimezone: AoE\nSource: huggin
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:CHI 2027
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:chi-2027-conference@awesome-conference-dates
 DESCRIPTION:The ACM Conference on Human Factors in Computing Systems\nLoca
  tion: Pittsburgh\, United States\nLink: https://chi2027.acm.org/\nTimezone
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:CIKM 2026
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:cikm-2026-conference@awesome-conference-dates
 DESCRIPTION:Conference on Information and Knowledge Management\nLocation: 
  Rome\, Italy\nLink: https://cikm2026.diag.uniroma1.it/\nTimezone: AoE\nSou
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:COLM 2026
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:colm-2026-conference@awesome-conference-dates
 DESCRIPTION:Conference on Language Modeling\nLocation: San Francisco\, USA
  \nLink: https://colmweb.org/\nTimezone: AoE\nSource: huggingface/ai-deadli
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:CoRL 2026
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:corl-2026-conference@awesome-conference-dates
 DESCRIPTION:The Conference on Robot Learning\nLocation: Austin\, United St
  ates\nLink: https://www.corl.org/\nTimezone: UTC\nSource: huggingface/ai-d
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:ECIR 2027 deadline
 DTSTART:20261005T235959
 DTEND:20261005T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ecir-2027-deadline@awesome-conference-dates
 DESCRIPTION:European Conference on Information Retrieval\nLocation: Southa
  mpton\, United Kingdom\nLink: https://www.ecir2027.co.uk/\nTimezone: AoE\n
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:ECIR 2027
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270326
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ecir-2027-conference@awesome-conference-dates
 DESCRIPTION:European Conference on Information Retrieval\nLocation: Southa
  mpton\, United Kingdom\nLink: https://www.ecir2027.co.uk/\nTimezone: AoE\n
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:EMNLP 2026
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:emnlp-2026-conference@awesome-conference-dates
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
   Processing\nLocation: Budapest\, Hungary\nLink: https://2026.emnlp.org/\n
@@ -249,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:EMNLP (System Demonstrations Track) 2026
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:emnlp-system-demonstrations-track-2026-conference@awesome-conference-d
  ates
 DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Eurographics 2027 abstract deadline
 DTSTART:20260925T235959
 DTEND:20260925T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:eurographics-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:The 48th Annual Conference of the European Association for Com
  puter Graphics\nLocation: Lucca\, Italy\nLink: https://eg2027.isti.cnr.it/
@@ -293,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Eurographics 2027 deadline
 DTSTART:20261001T235959
 DTEND:20261001T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:eurographics-2027-deadline@awesome-conference-dates
 DESCRIPTION:The 48th Annual Conference of the European Association for Com
  puter Graphics\nLocation: Lucca\, Italy\nLink: https://eg2027.isti.cnr.it/
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Eurographics 2027
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:eurographics-2027-conference@awesome-conference-dates
 DESCRIPTION:The 48th Annual Conference of the European Association for Com
  puter Graphics\nLocation: Lucca\, Italy\nLink: https://eg2027.isti.cnr.it/
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:EUVIP 2026
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:euvip-2026-conference@awesome-conference-dates
 DESCRIPTION:European Conference on Visual Information Processing\nLocation
  : Luxembourg\, Luxembourg\nLink: https://euvip2026.github.io/\nTimezone: U
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:ICDM 2026
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:icdm-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Data Mining\nLocation: Shenyang\, 
  China\nLink: http://icdm2026.neu.edu.cn/\nTimezone: AoE\nSource: huggingfa
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027 deadline
 DTSTART:20260925T235959
 DTEND:20260925T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iclr-2027-deadline@awesome-conference-dates
 DESCRIPTION:The Fifteenth International Conference on Learning Representat
  ions\nLocation: San Francisco\, United States\nLink: https://iclr.cc/Confe
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:ICLR 2027
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iclr-2027-conference@awesome-conference-dates
 DESCRIPTION:The Fifteenth International Conference on Learning Representat
  ions\nLocation: San Francisco\, United States\nLink: https://iclr.cc/Confe
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:ICRA 2027
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:icra-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE International Conference on Robotics and Automation\nLoca
  tion: Seoul\, South Korea\nLink: https://2027.ieee-icra.org/\nTimezone: PS
@@ -410,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:INLG 2026
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:inlg-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Natural Language Generation\nLocat
  ion: Utrecht\, Netherlands\nLink: https://2026.inlgmeeting.org/\nTimezone:
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Interspeech 2026
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:interspeech-2026-conference@awesome-conference-dates
 DESCRIPTION:Interspeech\nLocation: Sydney\, Australia\nLink: https://inter
  speech2026.org\nTimezone: AoE\nSource: huggingface/ai-deadlines
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:IROS 2026
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iros-2026-conference@awesome-conference-dates
 DESCRIPTION:IEEE\\RSJ International Conference on Intelligent Robots and S
  ystems\nLocation: Pittsburgh\, USA\nLink: https://2026.ieee-iros.org/\nTim
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:MICCAI 2026
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:miccai-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Medical Image Computing and Comput
  er-Assisted Intervention\nLocation: Strasbourg\, France\nLink: https://con
@@ -454,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2027 deadline
 DTSTART:20261012T235959
 DTEND:20261012T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:naacl-2027-deadline@awesome-conference-dates
 DESCRIPTION:The Annual Conference of the Nations of the Americas Chapter o
  f the Association for Computational Linguistics\nLocation: San Francisco\,
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:NAACL 2027
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270606
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:naacl-2027-conference@awesome-conference-dates
 DESCRIPTION:The Annual Conference of the Nations of the Americas Chapter o
  f the Association for Computational Linguistics\nLocation: San Francisco\,
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:NeurIPS 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:neurips-2026-conference@awesome-conference-dates
 DESCRIPTION:Conference on Neural Information Processing Systems\nLocation:
   Sydney\, Australia\nLink: https://neurips.cc/\nTimezone: AoE\nSource: hug
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:SIBGRAPI 2026
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:sibgrapi-2026-conference@awesome-conference-dates
 DESCRIPTION:Conference on Graphics\, Patterns and Images\nLocation: Goiân
  ia\, Brazil\nLink: https://sibgrapi.sbc.org.br/2026/\nTimezone: UTC\nSourc
@@ -520,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:WACV 2027
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:wacv-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision\
  nLocation: Buena Vista\, FL\, USA\nLink: https://wacv.thecvf.com/\nTimezon
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:WSDM 2027
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:wsdm-2027-conference@awesome-conference-dates
 DESCRIPTION:ACM International Conference on Web Search and Data Mining\nLo
  cation: Hong Kong\, Hong Kong\nLink: https://www.wsdm-conference.org/2027/
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027 abstract deadline
 DTSTART:20261018T235959
 DTEND:20261018T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:www-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:The Web Conference\nLocation: Dublin\, Ireland\nLink: https://
  www2027.thewebconf.org/\nTimezone: AoE\nSource: huggingface/ai-deadlines
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027 deadline
 DTSTART:20261025T235959
 DTEND:20261025T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:www-2027-deadline@awesome-conference-dates
 DESCRIPTION:The Web Conference\nLocation: Dublin\, Ireland\nLink: https://
  www2027.thewebconf.org/\nTimezone: AoE\nSource: huggingface/ai-deadlines
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:WWW 2027
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:www-2027-conference@awesome-conference-dates
 DESCRIPTION:The Web Conference\nLocation: Dublin\, Ireland\nLink: https://
  www2027.thewebconf.org/\nTimezone: AoE\nSource: huggingface/ai-deadlines
@@ -612,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:ASP-DAC 2027
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270129
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:asp-dac-2027-conference@awesome-conference-dates
 DESCRIPTION:Asia and South Pacific Design Automation Conference\nLocation:
   Hitotsubashi Hall\, Tokyo\, Japan\nLink: https://www.aspdac.com/aspdac202
@@ -623,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:ATS 2026
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261204
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ats-2026-conference@awesome-conference-dates
 DESCRIPTION:IEEE Asian Test Symposium\nLocation: Kaohsiung\, Taiwan\nLink:
   https://www.ats2026.tw/\nTimezone: AoE\nSource: ccf-deadlines
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:CODES+ISSS 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:codes-isss-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Hardware/Software Co-design and Sy
  stem Synthesis\nLocation: Barcelona\, Spain\nLink: https://esweek.org/code
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:DAC 2027 abstract deadline
 DTSTART:20261111T170000
 DTEND:20261111T170000
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:dac-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:Design Automation Conference\nLocation: San Jose\, CA\nLink: h
  ttps://dac.com/2027/authors/call-for-contributions\nTimezone: UTC-8\nSourc
@@ -675,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:DAC 2027 deadline
 DTSTART:20261118T170000
 DTEND:20261118T170000
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:dac-2027-deadline@awesome-conference-dates
 DESCRIPTION:Design Automation Conference\nLocation: San Jose\, CA\nLink: h
  ttps://dac.com/2027/authors/call-for-contributions\nTimezone: UTC-8\nSourc
@@ -706,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:DAC 2027
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270715
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:dac-2027-conference@awesome-conference-dates
 DESCRIPTION:Design Automation Conference\nLocation: San Jose\, CA\nLink: h
  ttps://dac.com/2027/authors/call-for-contributions\nTimezone: UTC-8\nSourc
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:DATE 2027
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:date-2027-conference@awesome-conference-dates
 DESCRIPTION:Design\, Automation & Test in Europe\nLocation: Dresden\, Germ
  any\nLink: https://www.date-conference.com/date-2027-call-papers\nTimezone
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:ETS 2027 abstract deadline
 DTSTART:20261208T235959
 DTEND:20261208T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ets-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:IEEE European Test Symposium\nLocation: London\, UK\nLink: htt
  ps://www.ets2027.co.uk/\nTimezone: AoE\nSource: ccf-deadlines
@@ -758,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:ETS 2027 deadline
 DTSTART:20261215T235959
 DTEND:20261215T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ets-2027-deadline@awesome-conference-dates
 DESCRIPTION:IEEE European Test Symposium\nLocation: London\, UK\nLink: htt
  ps://www.ets2027.co.uk/\nTimezone: AoE\nSource: ccf-deadlines
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:ETS 2027
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ets-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE European Test Symposium\nLocation: London\, UK\nLink: htt
  ps://www.ets2027.co.uk/\nTimezone: AoE\nSource: ccf-deadlines
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:FPGA 2027 abstract deadline
 DTSTART:20261001T235959
 DTEND:20261001T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:fpga-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate A
  rrays\nLocation: Monterey\, California\, USA\nLink: https://www.isfpga.org
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:FPGA 2027 deadline
 DTSTART:20261008T235959
 DTEND:20261008T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:fpga-2027-deadline@awesome-conference-dates
 DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate A
  rrays\nLocation: Monterey\, California\, USA\nLink: https://www.isfpga.org
@@ -860,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:FPGA 2027
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270317
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:fpga-2027-conference@awesome-conference-dates
 DESCRIPTION:ACM/SIGDA International Symposium on Field-Programmable Gate A
  rrays\nLocation: Monterey\, California\, USA\nLink: https://www.isfpga.org
@@ -871,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:FPT 2026
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261211
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:fpt-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Field Programmable Technology\nLoc
  ation: Honolulu\, Hawaii\, USA\nLink: https://fpt2026.uark.edu\nTimezone: 
@@ -882,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:HPCA 2027
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270325
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:hpca-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE International Symposium on High-Performance Computer Arch
  itecture\nLocation: Salt Lake City\, Utah\nLink: https://conf.researchr.or
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:ICCAD 2026
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iccad-2026-conference@awesome-conference-dates
 DESCRIPTION:IEEE/ACM International Conference on Computer-Aided Design\nLo
  cation: San Jose\, California\, USA\nLink: https://iccad.com/2026\nTimezon
@@ -904,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:ICCD 2026
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iccd-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Computer Design\nLocation: Hong Ko
  ng SAR\, China\nLink: https://www.iccd-conf.com/2026/home.html\nTimezone: 
@@ -915,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:ISCA 2027 abstract deadline
 DTSTART:20261109T235959
 DTEND:20261109T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:isca-2027-abstract-deadline@awesome-conference-dates
 DESCRIPTION:International Symposium on Computer Architecture\nLocation: At
  lanta\, Georgia\, USA\nLink: https://iscaconf.org/isca2027/\nTimezone: AoE
@@ -946,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:ISCA 2027 deadline
 DTSTART:20261116T235959
 DTEND:20261116T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:isca-2027-deadline@awesome-conference-dates
 DESCRIPTION:International Symposium on Computer Architecture\nLocation: At
  lanta\, Georgia\, USA\nLink: https://iscaconf.org/isca2027/\nTimezone: AoE
@@ -977,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:ISCA 2027
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:isca-2027-conference@awesome-conference-dates
 DESCRIPTION:International Symposium on Computer Architecture\nLocation: At
  lanta\, Georgia\, USA\nLink: https://iscaconf.org/isca2027/\nTimezone: AoE
@@ -988,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:ISCAS 2027 deadline
 DTSTART:20261026T235959
 DTEND:20261026T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iscas-2027-deadline@awesome-conference-dates
 DESCRIPTION:IEEE International Symposium on Circuits and Systems\nLocation
  : Bordeaux\, France\nLink: https://2027.ieee-iscas.org/\nTimezone: UTC-5\n
@@ -1019,7 +1019,7 @@ BEGIN:VEVENT
 SUMMARY:ISCAS 2027
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:iscas-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE International Symposium on Circuits and Systems\nLocation
  : Bordeaux\, France\nLink: https://2027.ieee-iscas.org/\nTimezone: UTC-5\n
@@ -1030,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:ISPD 2027 deadline
 DTSTART:20260928T235959
 DTEND:20260928T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ispd-2027-deadline@awesome-conference-dates
 DESCRIPTION:International Symposium on Physical Design\nLocation: Taipei\,
   Taiwan\nLink: https://ispd.cc/ispd2027/\nTimezone: AoE\nSource: ccf-deadl
@@ -1061,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:ISPD 2027
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270403
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:ispd-2027-conference@awesome-conference-dates
 DESCRIPTION:International Symposium on Physical Design\nLocation: Taipei\,
   Taiwan\nLink: https://ispd.cc/ispd2027/\nTimezone: AoE\nSource: ccf-deadl
@@ -1072,7 +1072,7 @@ BEGIN:VEVENT
 SUMMARY:ITC 2026
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:itc-2026-conference@awesome-conference-dates
 DESCRIPTION:International Test Conference\nLocation: Grand Hyatt San Anton
  io Riverwalk\, TX\, USA\nLink: https://www.itctestweek.org/\nTimezone: AoE
@@ -1083,7 +1083,7 @@ BEGIN:VEVENT
 SUMMARY:MICRO 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:micro-2026-conference@awesome-conference-dates
 DESCRIPTION:IEEE/ACM International Symposium on Microarchitecture\nLocatio
  n: Athens\, Greece\nLink: https://microarch.org/micro59/\nTimezone: UTC-4\
@@ -1094,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:RTAS 2027 deadline
 DTSTART:20261105T235959
 DTEND:20261105T235959
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:rtas-2027-deadline@awesome-conference-dates
 DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Sympos
  ium\nLocation: Boulder\, Colorado\nLink: https://2027.rtas.org/\nTimezone:
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:RTAS 2027
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270521
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:rtas-2027-conference@awesome-conference-dates
 DESCRIPTION:IEEE Real-Time and Embedded Technology and Applications Sympos
  ium\nLocation: Boulder\, Colorado\nLink: https://2027.rtas.org/\nTimezone:
@@ -1136,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:SoCC 2026
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:socc-2026-conference@awesome-conference-dates
 DESCRIPTION:ACM Symposium on Cloud Computing\nLocation: Singapore\nLink: h
  ttps://acmsocc.org/2026/\nTimezone: AoE\nSource: ccf-deadlines
@@ -1146,7 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:EMSOFT 2026
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:emsoft-2026-conference@awesome-conference-dates
 DESCRIPTION:International Conference on Embedded Software\nLocation: Barce
  lona\, Spain\nLink: https://esweek.org/emsoft/\nTimezone: AoE\nSource: ccf
@@ -1157,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:SiPS 2026
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:sips-2026-conference@awesome-conference-dates
 DESCRIPTION:2026 IEEE Workshop on Signal Processing Systems\nLocation: Bor
  deaux\, France\nLink: https://ieee-cas.org/event/conference/2026-ieee-work
@@ -1168,7 +1168,7 @@ BEGIN:VEVENT
 SUMMARY:ICECS 2026
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:icecs-2026-conference@awesome-conference-dates
 DESCRIPTION:2026 IEEE 33rd International Conference on Electronics Circuit
  s and Systems\nLocation: Thessaloniki\, Greece\nLink: https://ieee-cas.org
@@ -1180,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:LASCAS 2027 deadline
 DTSTART:20260929T120000
 DTEND:20260929T120000
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:lascas-2027-deadline@awesome-conference-dates
 DESCRIPTION:2027 18th IEEE Latin American Symposium on Circuits and System
  s\nLocation: Panama City\, Panama\nLink: https://ieee-cas.org/event/confer
@@ -1212,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:LASCAS 2027
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:lascas-2027-conference@awesome-conference-dates
 DESCRIPTION:2027 18th IEEE Latin American Symposium on Circuits and System
  s\nLocation: Panama City\, Panama\nLink: https://ieee-cas.org/event/confer
@@ -1224,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:CICC 2027 deadline
 DTSTART:20261116T120000
 DTEND:20261116T120000
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:cicc-2027-deadline@awesome-conference-dates
 DESCRIPTION:2027 IEEE Custom Integrated Circuits Conference\nLocation: San
   Diego\, California\, USA\nLink: https://ieee-cas.org/event/conference/202
@@ -1255,7 +1255,7 @@ BEGIN:VEVENT
 SUMMARY:CICC 2027
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270422
-DTSTAMP:20261024T021617Z
+DTSTAMP:20261025T020221Z
 UID:cicc-2027-conference@awesome-conference-dates
 DESCRIPTION:2027 IEEE Custom Integrated Circuits Conference\nLocation: San
   Diego\, California\, USA\nLink: https://ieee-cas.org/event/conference/202
