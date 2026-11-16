@@ -28,6 +28,8 @@ jobs:
 
       - name: Run Python script
         run: uv run python get_deadlines.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'

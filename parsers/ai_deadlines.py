@@ -11,6 +11,7 @@ and normalise every entry into a flat dict.
 """
 
 import datetime
+import os
 
 import requests
 import yaml
@@ -32,9 +33,12 @@ HTTP_TIMEOUT = 30
 
 def _list_conference_files():
     """Return the list of raw download URLs for every conference YAML file."""
-    resp = requests.get(
-        CONTENTS_API_URL, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT
-    )
+    headers = dict(HTTP_HEADERS)
+    # Unauthenticated API calls share a tiny per-IP rate limit on CI runners.
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    resp = requests.get(CONTENTS_API_URL, headers=headers, timeout=HTTP_TIMEOUT)
     resp.raise_for_status()
     entries = resp.json()
     urls = [
